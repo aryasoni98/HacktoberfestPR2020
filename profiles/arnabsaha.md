@@ -1,29 +1,16 @@
-# Your Name
+# Arnab Saha
 
 ### Location
 
-Your City/Country
+Malda,India
 
 ### Academics
 
-Your School
-
-### Interests
-
-- Some Things You Like
-
-### Development
-
-- Inventor of the My Pillow
-
-### Projects
-
-- [My Project](GitHub Link) Short Description
+Karunya Institute of Technology and Sciences  
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+Arnab Saha (https://github.com/Arnabsaha6)
 
-### Email ID
-
-- YOURNAME@xyz.com
+## Linkedin
+Arnab Saha (https://www.linkedin.com/in/arnab-saha-277282177/)
