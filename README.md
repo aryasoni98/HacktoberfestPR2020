@@ -8,7 +8,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[PR Hacktoberfest](https://github.com/aryasoni98/PRHacktoberfest)
+[PR Hacktoberfest](https://github.com/aryasoni98/HacktoberfestPR2020)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -29,7 +29,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/aryasoni98/PRHacktoberfest.git
+git clone https://github.com/aryasoni98/HacktoberfestPR2020.git
 ```
 
 * Create a branch
