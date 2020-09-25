@@ -101,13 +101,15 @@ Your School
 ### 3. Create a `Hello, World!` Script
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
-```Javascript
+```Python
 
-console.log('Hello, World!');
+import sys
+
+print("Hello World")
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_aryasoni98.py]()
+Here is my `hello_world` example: [hello_world_aryasoni98.py](https://github.com/aryasoni98/HacktoberfestPR2020/blob/master/scripts/hello_world_aryasoni98.py)
