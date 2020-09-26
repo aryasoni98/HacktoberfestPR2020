@@ -1,7 +1,7 @@
-#### Name: Arya Soni
- - Place: Delhi, India
- - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
- - GitHub: [Arya Soni](https://github.com/aryasoni98)
+#### Name: Harshit Dhyani
+ - Place: Dehradun,India
+ - Bio: B.Tech Student,  G.B. Pant Institute of Engineering and Technology(https://www.linkedin.com/in/harshit-dhyani-0853671a7)
+ - GitHub: [Harshit Dhyani](https://github.com/Halix267)
 
 #### Name: Harshit Singh
  - Place: Lucknow, Uttar Pradesh, India
