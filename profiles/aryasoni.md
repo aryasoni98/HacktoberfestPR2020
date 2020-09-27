@@ -1,25 +1,25 @@
-# Arya Soni
+# Harshit Dhyani
 
 ### Location
 
-Delhi , India
+Dehradun, India
 
 ### Academics
 
-Netaji Subhas University of Technology, Delhi , Inida
+GB Pant Institute Of Engineering and Technology, Uttarakhand , India
 
 ### Interests
 
-- Coding , Travelling
+- Coding , Machine Learning, Django
 
 ### Projects
 
-- [Open Source Code](https://opensourcecode.tech/) - Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+- [MychatApp](https://github.com/Halix267/Chat_app-using-channels) - App build by using djago and react framework
 
 ### Profile Link
 
-[Arya Soni](https://github.com/aryasoni98)
+[Harshit Dhyani](https://github.com/Halix267)
 
 ### Email ID
 
-- aryasoni98@gmail.com
+- harshitdhyani1501@gmail.com
