@@ -31,4 +31,9 @@
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
 
+#### Name: Chiranjib Bordoloi
+ - Place: Assam, India
+ - Bio: B.E(CSE) Student
+ - GitHub: [ icodechiranjib ](https://github.com/icodechiranjib)
+
 >>>>>>> master
