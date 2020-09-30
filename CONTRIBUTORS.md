@@ -35,3 +35,12 @@
  - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
  - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
 
+#### Name: Amogha T S
+ - Place: karnataka, India
+ - Bio:Automation and robotics B.E Student,KLE Technological university, https://www.linkedin.com/in/amogha-t-s-7255451a7/
+ - GitHub: [Amogha Talihalla Sunil](https://github.com/amoghatsunil)
+ 
+#### Name: Chiranjib Bordoloi
+ - Place: Assam, India
+ - Bio: B.E(CSE) Student
+ - GitHub: [ icodechiranjib ](https://github.com/icodechiranjib)
