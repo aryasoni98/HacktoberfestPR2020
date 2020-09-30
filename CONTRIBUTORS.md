@@ -59,3 +59,9 @@
  - Place: Assam, India
  - Bio: B.E(CSE) Student
  - GitHub: [ icodechiranjib ](https://github.com/icodechiranjib)
+
+#### Name: Richard Timothy
+- Place: Awarpur, Maharashtra, India
+- Bio: B.Tech CSE Student
+- GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
+
