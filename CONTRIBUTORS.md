@@ -29,3 +29,9 @@
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
 
+#### Name: Shishir Choudhary
+ - Place: Raipur, India
+ - Bio: Python Enthusiast , React Native App developer , and currently exploring Embedded Systems and IOT.
+ - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
+ - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
+
