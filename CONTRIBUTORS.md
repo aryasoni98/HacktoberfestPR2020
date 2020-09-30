@@ -3,7 +3,6 @@
  - Place: Delhi, India
  - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
  - GitHub: [Arya Soni](https://github.com/aryasoni98)
-<<<<<<< HEAD
  
 #### Name: Pallavi Savant
  - Place: Bengaluru , Karnataka India.
@@ -35,5 +34,8 @@
  - Place: karnataka, India
  - Bio:Automation and robotics B.E Student,KLE Technological university, https://www.linkedin.com/in/amogha-t-s-7255451a7/
  - GitHub: [Amogha Talihalla Sunil](https://github.com/amoghatsunil)
-
->>>>>>> master
+=======
+#### Name: Chiranjib Bordoloi
+ - Place: Assam, India
+ - Bio: B.E(CSE) Student
+ - GitHub: [ icodechiranjib ](https://github.com/icodechiranjib)
