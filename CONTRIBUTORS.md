@@ -60,7 +60,6 @@
 - GitHub: [Amogha Talihalla Sunil](https://github.com/amoghatsunil)
 
 #### Name: Chiranjib Bordoloi
-
 - Place: Assam, India
 - Bio: B.E(CSE) Student
 - GitHub: [icodechiranjib](https://github.com/icodechiranjib)
@@ -70,3 +69,9 @@
 - Place: Mumbai, Maharashtra, India
 - Bio: BE Second Year, Computer Engineering
 - GitHub: [tusharnankani](https://github.com/tusharnankani)
+
+#### Name: Richard Timothy
+- Place: Awarpur, Maharashtra, India
+- Bio: B.Tech CSE Student
+- GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
+
