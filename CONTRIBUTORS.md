@@ -65,3 +65,8 @@
 - Bio: B.Tech CSE Student
 - GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
 
+#### Name: Jatin Aggarwal
+- Place: Delhi, India
+- Bio: B.Tech ENC Student
+- GitHub: [Jatin Aggarwal](https://github.com/jatinagg1)
+
