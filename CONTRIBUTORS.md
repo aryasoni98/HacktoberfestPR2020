@@ -37,3 +37,7 @@
  - GitHub: [ icodechiranjib ](https://github.com/icodechiranjib)
 
 >>>>>>> master
+#### Name: Richard Timothy
+- Place: Awarpur, Maharashtra, India
+- Bio: B.Tech CSE Student
+- GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
