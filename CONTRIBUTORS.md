@@ -3,6 +3,11 @@
  - Place: Delhi, India
  - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
  - GitHub: [Arya Soni](https://github.com/aryasoni98)
+
+#### Name: Anmol Lenka
+ - Place: Bhubaneshwar, India
+ - Bio: B.Tech Cse Student
+ - GitHub: [anmol lenka](https://github.com/Anmollenka)
  
 #### Name: Arnab Saha
  - Place: Coimbatore, India
@@ -64,4 +69,3 @@
 - Place: Awarpur, Maharashtra, India
 - Bio: B.Tech CSE Student
 - GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
-
