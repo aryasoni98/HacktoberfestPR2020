@@ -84,6 +84,13 @@
 - Bio: B.Tech CSE Student
 - GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
 
+
+#### Name: Annie Saxena
+- Place: Roorkee, Uttarakhand, India
+- Bio: A B.Tech student at Motilal Nehru National Institute of Technology. My Interests include web development and competitive coding.
+- GitHub: [anniesaxena](https://github.com/anniesaxena)
+
+=======
 #### Name: Gayathri Buddhika
 - Place: Galle, Sourthern Province, Sri Lanka
 - Bio: Udergraduate and trainee software engineer
