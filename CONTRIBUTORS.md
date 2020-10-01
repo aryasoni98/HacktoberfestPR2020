@@ -33,6 +33,12 @@
 - Bio: B.Tech Student
 - GitHub: [pallavisavant]()
 
+#### Name: Pranchal Kesharwani
+
+- Place: Lucknow,India
+- Bio: Software Engineer at Capgemini
+- GitHub: [Pranchal Kesharwani](https://github.com/pranchal007)
+
 #### Name: Ananya Negi
 
 - Place: Dehradun,Uttarakhand,India
