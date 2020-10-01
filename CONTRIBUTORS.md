@@ -30,5 +30,10 @@
  - Place: Dehradun, India
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
+ 
+#### Name: Lakshya
+ - Place: Indore, India
+ - Bio: 9th Class Student
+ - Github: [lakshya3841](https://github.com/lakshya3841)
 
 >>>>>>> master
