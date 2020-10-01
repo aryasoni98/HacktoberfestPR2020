@@ -65,3 +65,7 @@
 - Bio: B.Tech CSE Student
 - GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
 
+#### Name: Gayathri Buddhika
+- Place: Galle, Sourthern Province, Sri Lanka
+- Bio: Udergraduate and trainee software engineer
+- GitHub: [gayathribuddhika](https://github.com/gayathribuddhika)
