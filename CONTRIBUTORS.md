@@ -135,3 +135,9 @@
  - Place: Kolkata, India
  - Bio: B.Tech Cse Student
  - GitHub: [prithvirajcodes](https://github.com/prithvirajcodes)
+ 
+ #### Name: Ashray Kothari
+ - Place: Vadodara, India
+ - Bio: B.Tech ICT Student
+ - GitHub: [Ashray11](https://github.com/Ashray11)
+ 
