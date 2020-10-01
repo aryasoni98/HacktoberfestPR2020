@@ -141,3 +141,7 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
  
+#### Name: Nitish Chaturvedi
+ - Place: Chennai, India
+ - Bio: B.Tech CSE Student 
+ - GitHub: [waterupto](https://github.com/waterupto)
