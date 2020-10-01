@@ -70,11 +70,16 @@
 - Bio: B.Tech CSE Student
 - GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
 
+#### Name: Gayathri Buddhika
+- Place: Galle, Sourthern Province, Sri Lanka
+- Bio: Udergraduate and trainee software engineer
+- GitHub: [gayathribuddhika](https://github.com/gayathribuddhika)
+
 #### Name: Sahil Agrawal
 - Place: Pune, Maharashtra, India
 - Bio: B.Tech CSE Student 
 - GitHub: [sagrawal9689](https://github.com/sagrawal9689)
-=======
+
 #### Name: Tejan Singh
 - Place: Jaipur, Rajasthan, India
 - Bio: B.Tech ICT Student
