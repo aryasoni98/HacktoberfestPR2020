@@ -85,4 +85,19 @@
 - Bio: B.Tech ICT Student
 - GitHub: [Tejan Singh](https://github.com/tejan-singh)
 
+#### Name: Suvodeep Sinha
 
+ - Place: Mumbai, India
+ - Bio: B.Tech Student, CSE
+ - GitHub: [Suvoo](https://github.com/Suvoo)
+
+#### Name: Animesh Pathak
+- Place: Noida,UP, India
+- Bio: B.Tech student
+- GitHub: [SONICHIGO](https://github.com/sonichigo)
+
+
+#### Name: Prithviraj Biswas
+ - Place: Kolkata, India
+ - Bio: B.Tech Cse Student
+ - GitHub: [prithvirajcodes](https://github.com/prithvirajcodes)
