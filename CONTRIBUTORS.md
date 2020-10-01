@@ -30,5 +30,11 @@
  - Place: Dehradun, India
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
+ 
+ #### Name: Rakshith Ramesh
+ - Place: Mumbai , Maharashtra, India.
+ - Bio: B.Tech Student
+ - GitHub: [rakbarca10](https://github.com/rakbarca10)
+=======
 
 >>>>>>> master
