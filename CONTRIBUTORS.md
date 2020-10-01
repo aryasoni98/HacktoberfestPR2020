@@ -4,10 +4,6 @@
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
 
- - Place: Delhi, India
- - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
- - GitHub: [Arya Soni](https://github.com/aryasoni98)
-
 #### Name: Anmol Lenka
  - Place: Bhubaneshwar, India
  - Bio: B.Tech Cse Student
@@ -84,13 +80,16 @@
 - Bio: B.Tech CSE Student
 - GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
 
+#### Name: Jatin Aggarwal
+- Place: Delhi, India
+- Bio: B.Tech ENC Student
+- GitHub: [Jatin Aggarwal](https://github.com/jatinagg1)
 
 #### Name: Annie Saxena
 - Place: Roorkee, Uttarakhand, India
 - Bio: A B.Tech student at Motilal Nehru National Institute of Technology. My Interests include web development and competitive coding.
 - GitHub: [anniesaxena](https://github.com/anniesaxena)
 
-=======
 #### Name: Gayathri Buddhika
 - Place: Galle, Sourthern Province, Sri Lanka
 - Bio: Udergraduate and trainee software engineer
@@ -116,7 +115,6 @@
 - Place: Noida,UP, India
 - Bio: B.Tech student
 - GitHub: [SONICHIGO](https://github.com/sonichigo)
-
 
 #### Name: Prithviraj Biswas
  - Place: Kolkata, India
