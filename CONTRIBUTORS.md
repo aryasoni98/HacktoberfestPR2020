@@ -136,8 +136,12 @@
  - Bio: B.Tech Cse Student
  - GitHub: [prithvirajcodes](https://github.com/prithvirajcodes)
  
- #### Name: Ashray Kothari
+#### Name: Ashray Kothari
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
  
+#### Name: Aman Kumar Soni
+ - Place: Bhopal, India
+ - Bio: B.Tech LPU Student
+ - GitHub: [computerwala](https://github.com/computerwala)
