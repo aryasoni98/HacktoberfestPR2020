@@ -58,11 +58,16 @@
 - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
 
 #### Name: Shishir Choudhary
-
-- Place: Raipur, India
-- Bio: Python Enthusiast , React Native App developer , and currently exploring Embedded Systems and IOT.
-- LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
-- GitHub: [Shishir Choudhary](https://github.com/Shishir198)
+ - Place: Raipur, India
+ - Bio: Python Enthusiast , React Native App developer , and currently exploring Embedded Systems and IOT.
+ - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
+ - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
+ 
+ #### Name: Kartikey Sharma
+ - Place: New Delhi, India
+ - Bio: Android Developer, Competiitve Coder and currently exploring Web Development
+ - LinkedIn - [Lets Connect!]https://www.linkedin.com/in/kartikey-sharma-9bb073108/
+ - GitHub: [Kartikey Sharma](https://github.com/KartikeySharma)
 
 #### Name: Amogha T S
 
