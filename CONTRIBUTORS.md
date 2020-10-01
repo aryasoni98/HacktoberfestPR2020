@@ -10,6 +10,11 @@
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
 
+#### Name: Ayush Goyal	
+- Place: Kota, Rajasthan, India
+- Bio: B.Tech student, Rajasthan Technical University
+- GitHub: [ayush179](https://github.com/ayush179)
+
 #### Name: Anmol Lenka
  - Place: Bhubaneshwar, India
  - Bio: B.Tech Cse Student
