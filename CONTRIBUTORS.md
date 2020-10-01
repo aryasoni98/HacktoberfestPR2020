@@ -79,3 +79,9 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: B.Tech ICT Student
 - GitHub: [Tejan Singh](https://github.com/tejan-singh)
+
+#### Name: Suvodeep Sinha
+
+ - Place: Mumbai, India
+ - Bio: B.Tech Student, CSE
+ - GitHub: [Suvoo](https://github.com/Suvoo)
