@@ -4,6 +4,15 @@
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
 
+ - Place: Delhi, India
+ - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
+ - GitHub: [Arya Soni](https://github.com/aryasoni98)
+
+#### Name: Anmol Lenka
+ - Place: Bhubaneshwar, India
+ - Bio: B.Tech Cse Student
+ - GitHub: [anmol lenka](https://github.com/Anmollenka)
+ 
 #### Name: Arnab Saha
 
 - Place: Coimbatore, India
@@ -75,3 +84,34 @@
 - Bio: B.Tech CSE Student
 - GitHub: [RichardTimothy1307](https://github.com/RichardTimothy1307)
 
+#### Name: Gayathri Buddhika
+- Place: Galle, Sourthern Province, Sri Lanka
+- Bio: Udergraduate and trainee software engineer
+- GitHub: [gayathribuddhika](https://github.com/gayathribuddhika)
+
+#### Name: Sahil Agrawal
+- Place: Pune, Maharashtra, India
+- Bio: B.Tech CSE Student 
+- GitHub: [sagrawal9689](https://github.com/sagrawal9689)
+
+#### Name: Tejan Singh
+- Place: Jaipur, Rajasthan, India
+- Bio: B.Tech ICT Student
+- GitHub: [Tejan Singh](https://github.com/tejan-singh)
+
+#### Name: Suvodeep Sinha
+
+ - Place: Mumbai, India
+ - Bio: B.Tech Student, CSE
+ - GitHub: [Suvoo](https://github.com/Suvoo)
+
+#### Name: Animesh Pathak
+- Place: Noida,UP, India
+- Bio: B.Tech student
+- GitHub: [SONICHIGO](https://github.com/sonichigo)
+
+
+#### Name: Prithviraj Biswas
+ - Place: Kolkata, India
+ - Bio: B.Tech Cse Student
+ - GitHub: [prithvirajcodes](https://github.com/prithvirajcodes)
