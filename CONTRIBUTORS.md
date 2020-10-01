@@ -141,3 +141,8 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
  
+ ### Name :Sanjeev Sagar
+-place :    Gorakhpur (up)
+-Btech      student
+-github:    [Sanjeev0228](https://github.com/sanjeev0228)
+ 
