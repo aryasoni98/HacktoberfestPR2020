@@ -33,6 +33,12 @@
 - Bio: B.Tech Student
 - GitHub: [pallavisavant]()
 
+#### Name: Radhika Modi
+
+- Place: Fazilka,Punjab India.
+- Bio: B.Tech Student
+- GitHub: [RadhikaModi123](https://github.com/RadhikaModi123)
+
 #### Name: Ananya Negi
 
 - Place: Dehradun,Uttarakhand,India
