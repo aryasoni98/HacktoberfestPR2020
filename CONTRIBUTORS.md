@@ -79,3 +79,8 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: B.Tech ICT Student
 - GitHub: [Tejan Singh](https://github.com/tejan-singh)
+
+#### Name: Prithviraj Biswas
+ - Place: Kolkata, India
+ - Bio: B.Tech Cse Student
+ - GitHub: [prithvirajcodes](https://github.com/prithvirajcodes)
