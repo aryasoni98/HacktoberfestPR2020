@@ -140,4 +140,9 @@
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
+
+ #### Name: Nikhil Shrivastava
+ - Place: Jharkhand, India
+ - Bio: B.Tech Cse Student
+ - GitHub: [NikhilShrivastava](https://github.com/NikhilShrivastava)
  
