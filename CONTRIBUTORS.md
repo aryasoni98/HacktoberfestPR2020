@@ -140,4 +140,10 @@
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
+
+ #### Name: Vaibhav Singhal
+
+- Place: Punjab, India
+- Bio: B.Tech Student, Co-Founder: Vabrodex )
+- GitHub: [iamvs-2002](https://github.com/iamvs-2002)
  
