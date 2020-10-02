@@ -141,3 +141,7 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
  
+ #### Name: Ali Ahmad Raza
+ - Place: uttar pradesh, INDIA
+ - Bio: B.tech Student
+ - GitHub: [raza4399](https://github.com/raza4399)
