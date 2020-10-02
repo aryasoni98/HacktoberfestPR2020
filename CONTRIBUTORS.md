@@ -141,3 +141,7 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
  
+#### Name: Love Tyagi
+- Place: Mohali, India
+- Bio: trainee software engineer
+- GitHub: [Love Tyagi](https://github.com/lovetyagi-17)
