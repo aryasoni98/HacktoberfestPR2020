@@ -140,4 +140,9 @@
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
+
+#### Name: Muhamamd Iqbal Rofikurrahman
+ - Place: Malang, Indonesia
+ - Bio: Backend Developer
+ - GitHub: [miqbalrr](https://github.com/miqbalrr)
  
