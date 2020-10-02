@@ -67,6 +67,11 @@
  - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
  - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
  
+ #### Name: Sonu Kushwaha
+ - Place: Patna, India
+ - Bio: Python Enthusiast 
+ - GitHub: [Sonu kushwaha](https://github.com/sonucodes)
+ 
  #### Name: Kartikey Sharma
  - Place: New Delhi, India
  - Bio: Android Developer, Competiitve Coder and currently exploring Web Development
