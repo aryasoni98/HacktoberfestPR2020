@@ -66,6 +66,13 @@
  - Bio: Python Enthusiast , React Native App developer , and currently exploring Embedded Systems and IOT.
  - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
  - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
+ 
+ #### Name: Sonu Kushwaha
+ - Place: Patna, India
+ - Bio: Python Enthusiast 
+ - GitHub: [Sonu kushwaha](https://github.com/sonucodes)
+ 
+=======
 
 #### Name: Mayank Sharma
 - Place: Jaipur, Rajasthan, India
