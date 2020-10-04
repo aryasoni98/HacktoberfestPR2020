@@ -61,6 +61,11 @@
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
  
+#### Name: Lakshya
+ - Place: Indore, India
+ - Bio: 9th Class Student
+ - Github: [lakshya3841](https://github.com/lakshya3841)
+
  #### Name: Rakshith Ramesh
  - Place: Mumbai , Maharashtra, India.
  - Bio: B.Tech Student
@@ -77,8 +82,6 @@
  - Bio: Python Enthusiast 
  - GitHub: [Sonu kushwaha](https://github.com/sonucodes)
  
-=======
-
 #### Name: Mayank Sharma
 - Place: Jaipur, Rajasthan, India
 - Bio: B.Tech. CSE Student
