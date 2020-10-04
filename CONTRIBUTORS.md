@@ -146,6 +146,12 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
  
+#### Name: Mahesh Jain
+
+ - Place: Haryana, India
+ - Bio: Frontend Software Developer 
+ - GitHub: [maheshjainckd](https://github.com/maheshjainckd)
+ 
  #### Name: Paulo Henrique
  - Place: Goias, Brazil
  - Bio: desenvolvedor de metodologia Go Horse
