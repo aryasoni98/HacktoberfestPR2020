@@ -192,12 +192,18 @@
  - Bio: B.tech Student
  - GitHub: [raza4399](https://github.com/raza4399)
  
+ ### Name :Sanjeev Sagar
+  -place :    Gorakhpur (up)
+  -Btech      student
+  -github:    [Sanjeev0228](https://github.com/sanjeev0228)
+
 #### Name: Nitish Chaturvedi
  - Place: Chennai, India
  - Bio: B.Tech CSE Student 
  - GitHub: [waterupto](https://github.com/waterupto)
 
 #### Name: Mayank Sharma
+
 - Place: Alwar, Rajasthan, India
 - Bio: B.Tech. CSE Student
 - GitHub: [starmayank07](https://github.com/starmayank07)
