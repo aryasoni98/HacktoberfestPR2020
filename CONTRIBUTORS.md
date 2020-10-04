@@ -1,14 +1,14 @@
-#### Name: Ankur Kesharwani
-
- - Place: Lucknow, India
- - Bio: Software Engineer-1 
- - GitHub: [kesari007](https://github.com/kesari007)
-
 #### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
+
+#### Name: Ankur Kesharwani
+
+ - Place: Lucknow, India
+ - Bio: Software Engineer-1 
+ - GitHub: [kesari007](https://github.com/kesari007)
 
 #### Name: Ayush Goyal	
 - Place: Kota, Rajasthan, India
@@ -61,6 +61,11 @@
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
  
+#### Name: Lakshya
+ - Place: Indore, India
+ - Bio: 9th Class Student
+ - Github: [lakshya3841](https://github.com/lakshya3841)
+
  #### Name: Rakshith Ramesh
  - Place: Mumbai , Maharashtra, India.
  - Bio: B.Tech Student
@@ -77,8 +82,6 @@
  - Bio: Python Enthusiast 
  - GitHub: [Sonu kushwaha](https://github.com/sonucodes)
  
-=======
-
 #### Name: Mayank Sharma
 - Place: Jaipur, Rajasthan, India
 - Bio: B.Tech. CSE Student
@@ -188,6 +191,11 @@
   -place :    Gorakhpur (up)
   -Btech      student
   -github:    [Sanjeev0228](https://github.com/sanjeev0228)
+
+#### Name: Nitish Chaturvedi
+ - Place: Chennai, India
+ - Bio: B.Tech CSE Student 
+ - GitHub: [waterupto](https://github.com/waterupto)
 
 #### Name: Mayank Sharma
 
