@@ -167,6 +167,11 @@
  - Bio: desenvolvedor de metodologia Go Horse
  - GitHub: [pahesali](https://github.com/pahesali)
  
+ #### Name: Ali Ahmad Raza
+ - Place: uttar pradesh, INDIA
+ - Bio: B.tech Student
+ - GitHub: [raza4399](https://github.com/raza4399)
+ 
 #### Name: Mayank Sharma
 - Place: Alwar, Rajasthan, India
 - Bio: B.Tech. CSE Student
