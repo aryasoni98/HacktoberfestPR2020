@@ -1,14 +1,14 @@
-#### Name: Ankur Kesharwani
-
- - Place: Lucknow, India
- - Bio: Software Engineer-1 
- - GitHub: [kesari007](https://github.com/kesari007)
-
 #### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
+
+#### Name: Ankur Kesharwani
+
+ - Place: Lucknow, India
+ - Bio: Software Engineer-1 
+ - GitHub: [kesari007](https://github.com/kesari007)
 
 #### Name: Ayush Goyal	
 - Place: Kota, Rajasthan, India
@@ -184,6 +184,11 @@
  - Bio: B.tech Student
  - GitHub: [raza4399](https://github.com/raza4399)
  
+#### Name: Nitish Chaturvedi
+ - Place: Chennai, India
+ - Bio: B.Tech CSE Student 
+ - GitHub: [waterupto](https://github.com/waterupto)
+
 #### Name: Mayank Sharma
 - Place: Alwar, Rajasthan, India
 - Bio: B.Tech. CSE Student
