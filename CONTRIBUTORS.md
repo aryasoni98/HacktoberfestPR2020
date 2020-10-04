@@ -66,7 +66,12 @@
  - Bio: Python Enthusiast , React Native App developer , and currently exploring Embedded Systems and IOT.
  - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
  - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
- 
+
+#### Name: Mayank Sharma
+- Place: Jaipur, Rajasthan, India
+- Bio: B.Tech. CSE Student
+- GitHub: [mayanksharma5](https://github.com/mayanksharma5)
+
  #### Name: Kartikey Sharma
  - Place: New Delhi, India
  - Bio: Android Developer, Competiitve Coder and currently exploring Web Development
@@ -146,3 +151,7 @@
  - Bio: desenvolvedor de metodologia Go Horse
  - GitHub: [pahesali](https://github.com/pahesali)
  
+#### Name: Mayank Sharma
+- Place: Alwar, Rajasthan, India
+- Bio: B.Tech. CSE Student
+- GitHub: [starmayank07](https://github.com/starmayank07)
