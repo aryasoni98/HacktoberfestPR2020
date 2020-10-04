@@ -10,6 +10,11 @@
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
 
+#### Name: Ayush Goyal	
+- Place: Kota, Rajasthan, India
+- Bio: B.Tech student, Rajasthan Technical University
+- GitHub: [ayush179](https://github.com/ayush179)
+
 #### Name: Anmol Lenka
  - Place: Bhubaneshwar, India
  - Bio: B.Tech Cse Student
@@ -67,6 +72,18 @@
  - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
  - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
  
+ #### Name: Sonu Kushwaha
+ - Place: Patna, India
+ - Bio: Python Enthusiast 
+ - GitHub: [Sonu kushwaha](https://github.com/sonucodes)
+ 
+=======
+
+#### Name: Mayank Sharma
+- Place: Jaipur, Rajasthan, India
+- Bio: B.Tech. CSE Student
+- GitHub: [mayanksharma5](https://github.com/mayanksharma5)
+
  #### Name: Kartikey Sharma
  - Place: New Delhi, India
  - Bio: Android Developer, Competiitve Coder and currently exploring Web Development
@@ -140,9 +157,40 @@
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
+
+#### Name: Muhamamd Iqbal Rofikurrahman
+ - Place: Malang, Indonesia
+ - Bio: Backend Developer
+ - GitHub: [miqbalrr](https://github.com/miqbalrr)
+ 
+#### Name: Love Tyagi
+- Place: Mohali, India
+- Bio: trainee software engineer
+- GitHub: [Love Tyagi](https://github.com/lovetyagi-17)
+
+#### Name: Mahesh Jain
+
+ - Place: Haryana, India
+ - Bio: Frontend Software Developer 
+ - GitHub: [maheshjainckd](https://github.com/maheshjainckd)
+ 
+ #### Name: Paulo Henrique
+ - Place: Goias, Brazil
+ - Bio: desenvolvedor de metodologia Go Horse
+ - GitHub: [pahesali](https://github.com/pahesali)
+ 
+ #### Name: Ali Ahmad Raza
+ - Place: uttar pradesh, INDIA
+ - Bio: B.tech Student
+ - GitHub: [raza4399](https://github.com/raza4399)
  
  ### Name :Sanjeev Sagar
--place :    Gorakhpur (up)
--Btech      student
--github:    [Sanjeev0228](https://github.com/sanjeev0228)
- 
+  -place :    Gorakhpur (up)
+  -Btech      student
+  -github:    [Sanjeev0228](https://github.com/sanjeev0228)
+
+#### Name: Mayank Sharma
+
+- Place: Alwar, Rajasthan, India
+- Bio: B.Tech. CSE Student
+- GitHub: [starmayank07](https://github.com/starmayank07)
