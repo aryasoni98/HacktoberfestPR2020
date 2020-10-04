@@ -161,6 +161,11 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
 
+ #### Name: Divesh Sahani 
+ - Place: Maharastra, India
+ - Bio: B.Tech  Student
+ - GitHub: [divessahani](https://github.com/diveshsahani)
+
 #### Name: Muhamamd Iqbal Rofikurrahman
  - Place: Malang, Indonesia
  - Bio: Backend Developer
