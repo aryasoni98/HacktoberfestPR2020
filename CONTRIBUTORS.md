@@ -253,3 +253,8 @@
 - Place: Bandung, Indonesia
 - Bio: Junior Web Developer & UI Design
 - GitHub: [Mochamad Putera Pamungkas](https://github.com/mputerapamungkas)
+
+#### Name: Emmadi Divya Srujana
+- Place: Delhi, India
+- Bio: Front end developer
+- GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
