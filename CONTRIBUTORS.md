@@ -38,6 +38,12 @@
 - Bio: B.Tech Student
 - GitHub: [pallavisavant]()
 
+#### Name: Pranchal Kesharwani
+
+- Place: Lucknow,India
+- Bio: Software Engineer at Capgemini
+- GitHub: [Pranchal Kesharwani](https://github.com/pranchal007)
+
 #### Name: Ananya Negi
 
 - Place: Dehradun,Uttarakhand,India
@@ -166,6 +172,12 @@
  - Bio: B.Tech Cse Student
  - GitHub: [NikhilShrivastava](https://github.com/NikhilShrivastava)
 
+
+  #### Name: Vansh Tandon
+ - Place: Roorkee, India
+ - Bio: B.Tech CSE Student
+ - GitHub: [Vansh1067](https://github.com/Vansh1067)
+
 #### Name: Divesh Sahani 
  - Place: Maharastra, India
  - Bio: B.Tech  Student
@@ -212,3 +224,9 @@
 - Place: Alwar, Rajasthan, India
 - Bio: B.Tech. CSE Student
 - GitHub: [starmayank07](https://github.com/starmayank07)
+
+#### Name: Ahmad Fauzan
+
+- Place: Bekasi, Indonesia
+- Bio: Software Engineer
+- GitHub: [fauzan264](https://github.com/fauzan264)
