@@ -34,6 +34,6 @@ case 7:
      printf("%f",log(a));
      break;
 }
-printf("result = %d", result);
+printf("result = %f", result);
 return 0;
 }
