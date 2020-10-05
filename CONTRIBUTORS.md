@@ -236,6 +236,13 @@
 - Bio: B.Tech. CSE Student
 - GitHub: [starmayank07](https://github.com/starmayank07)
 
+
+#### Name: Neelaksh Singh
+
+ - Place: Noida, India
+ - Bio: B.Tech. Student 
+ - GitHub: [Neelaksh-Singh](https://github.com/Neelaksh-Singh)
+
 #### Name: Ahmad Fauzan
 
 - Place: Bekasi, Indonesia
