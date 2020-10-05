@@ -207,3 +207,9 @@
 - Place: Alwar, Rajasthan, India
 - Bio: B.Tech. CSE Student
 - GitHub: [starmayank07](https://github.com/starmayank07)
+
+#### Name: Ahmad Fauzan
+
+- Place: Bekasi, Indonesia
+- Bio: Software Engineer
+- GitHub: [fauzan264](https://github.com/fauzan264)
