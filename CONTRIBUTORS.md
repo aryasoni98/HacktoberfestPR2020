@@ -167,7 +167,12 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
 
- #### Name: Divesh Sahani 
+  #### Name: Vansh Tandon
+ - Place: Roorkee, India
+ - Bio: B.Tech CSE Student
+ - GitHub: [Vansh1067](https://github.com/Vansh1067)
+
+#### Name: Divesh Sahani 
  - Place: Maharastra, India
  - Bio: B.Tech  Student
  - GitHub: [divessahani](https://github.com/diveshsahani)
