@@ -168,7 +168,7 @@
  - Bio: B.Tech Cse Student
  - GitHub: [prithvirajcodes](https://github.com/prithvirajcodes)
  
- #### Name: Ashray Kothari
+#### Name: Ashray Kothari
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
@@ -210,7 +210,12 @@
  - Bio: desenvolvedor de metodologia Go Horse
  - GitHub: [pahesali](https://github.com/pahesali)
  
- #### Name: Ali Ahmad Raza
+#### Name: Aman Kumar Soni
+ - Place: Bhopal, India
+ - Bio: B.Tech LPU Student
+ - GitHub: [computerwala](https://github.com/computerwala)
+
+#### Name: Ali Ahmad Raza
  - Place: uttar pradesh, INDIA
  - Bio: B.tech Student
  - GitHub: [raza4399](https://github.com/raza4399)
