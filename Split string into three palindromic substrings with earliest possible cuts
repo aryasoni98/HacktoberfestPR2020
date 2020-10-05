@@ -1,0 +1,145 @@
+#include <bits/stdc++.h> 
+using namespace std; 
+  
+// Function to check if a string 
+// is palindrome or not 
+bool isPalindrome(string x) 
+{ 
+    // Copy the string x to y 
+    string y = x; 
+  
+    // Reverse the string y 
+    reverse(y.begin(), y.end()); 
+  
+    if (x == y) { 
+  
+        // If string x equals y 
+        return true; 
+    } 
+  
+    return false; 
+} 
+  
+// Function to find three palindromes 
+// from the given string with earliest 
+// possible cuts 
+void Palindromes(string S, int N) 
+{ 
+    // Stores index of palindrome 
+    // starting from left & right 
+    vector<int> startPal, lastPal; 
+  
+    string start; 
+  
+    // Store the indices for possible 
+    // palindromes from left 
+    for (int i = 0; 
+         i < S.length() - 2; i++) { 
+  
+        // Push the current character 
+        start.push_back(S[i]); 
+  
+        // Check for palindrome 
+        if (isPalindrome(start)) { 
+  
+            // Insert the current index 
+            startPal.push_back(i); 
+        } 
+    } 
+  
+    string last; 
+  
+    // Stores the indexes for possible 
+    // palindromes from right 
+    for (int j = S.length() - 1; 
+         j >= 2; j--) { 
+  
+        // Push the current character 
+        last.push_back(S[j]); 
+  
+        // Check palindromic 
+        if (isPalindrome(last)) { 
+  
+            // Insert the current index 
+            lastPal.push_back(j); 
+        } 
+    } 
+  
+    // Sort the indexes for palindromes 
+    // from right in ascending order 
+    reverse(lastPal.begin(), 
+            lastPal.end()); 
+  
+    vector<pair<int, int> > middlePal; 
+  
+    for (int i = 0; 
+         i < startPal.size(); i++) { 
+  
+        for (int j = 0; 
+             j < lastPal.size(); j++) { 
+  
+            // If the value of startPal 
+            // < lastPal value then 
+            // store it in middlePal 
+            if (startPal[i] < lastPal[j]) { 
+  
+                // Insert the current pair 
+                middlePal.push_back( 
+                    { startPal[i], 
+                      lastPal[j] }); 
+            } 
+        } 
+    } 
+  
+    string res1, res2, res3; 
+    int flag = 0; 
+  
+    // Traverse over the middlePal 
+    for (int i = 0; 
+         i < middlePal.size(); i++) { 
+  
+        int x = middlePal[i].first; 
+        int y = middlePal[i].second; 
+  
+        string middle; 
+  
+        for (int k = x + 1; k < y; k++) { 
+            middle.push_back(S[k]); 
+        } 
+  
+        // Check if the middle part 
+        // is palindrome 
+        if (isPalindrome(middle)) { 
+            flag = 1; 
+            res1 = S.substr(0, x + 1); 
+            res2 = middle; 
+            res3 = S.substr(y, N - y); 
+            break; 
+        } 
+    } 
+  
+    // Print the three palindromic 
+    if (flag == 1) { 
+        cout << res1 << " "
+             << res2 << " "
+             << res3; 
+    } 
+  
+    // Otherwise 
+    else
+        cout << "-1"; 
+} 
+  
+// Driver Code 
+int main() 
+{ 
+    // Given string str 
+    string str = "ababbcb"; 
+  
+    int N = str.length(); 
+  
+    // Function Call 
+    Palindromes(str, N); 
+  
+    return 0; 
+} 

@@ -1,14 +1,19 @@
+#### Name: Arya Soni
+
+- Place: Delhi, India
+- Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
+- GitHub: [Arya Soni](https://github.com/aryasoni98)
+
 #### Name: Ankur Kesharwani
 
  - Place: Lucknow, India
  - Bio: Software Engineer-1 
  - GitHub: [kesari007](https://github.com/kesari007)
 
-#### Name: Arya Soni
-
-- Place: Delhi, India
-- Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
-- GitHub: [Arya Soni](https://github.com/aryasoni98)
+#### Name: Ayush Goyal	
+- Place: Kota, Rajasthan, India
+- Bio: B.Tech student, Rajasthan Technical University
+- GitHub: [ayush179](https://github.com/ayush179)
 
 #### Name: Anmol Lenka
  - Place: Bhubaneshwar, India
@@ -33,6 +38,18 @@
 - Bio: B.Tech Student
 - GitHub: [pallavisavant]()
 
+#### Name: Radhika Modi
+
+- Place: Fazilka,Punjab India.
+- Bio: B.Tech Student
+- GitHub: [RadhikaModi123](https://github.com/RadhikaModi123)
+
+#### Name: Pranchal Kesharwani
+
+- Place: Lucknow,India
+- Bio: Software Engineer at Capgemini
+- GitHub: [Pranchal Kesharwani](https://github.com/pranchal007)
+
 #### Name: Ananya Negi
 
 - Place: Dehradun,Uttarakhand,India
@@ -56,6 +73,11 @@
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
  
+#### Name: Lakshya
+ - Place: Indore, India
+ - Bio: 9th Class Student
+ - Github: [lakshya3841](https://github.com/lakshya3841)
+
  #### Name: Rakshith Ramesh
  - Place: Mumbai , Maharashtra, India.
  - Bio: B.Tech Student
@@ -67,6 +89,16 @@
  - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
  - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
  
+ #### Name: Sonu Kushwaha
+ - Place: Patna, India
+ - Bio: Python Enthusiast 
+ - GitHub: [Sonu kushwaha](https://github.com/sonucodes)
+ 
+#### Name: Mayank Sharma
+- Place: Jaipur, Rajasthan, India
+- Bio: B.Tech. CSE Student
+- GitHub: [mayanksharma5](https://github.com/mayanksharma5)
+
  #### Name: Kartikey Sharma
  - Place: New Delhi, India
  - Bio: Android Developer, Competiitve Coder and currently exploring Web Development
@@ -140,8 +172,72 @@
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
+
+ #### Name: Nikhil Shrivastava
+ - Place: Jharkhand, India
+ - Bio: B.Tech Cse Student
+ - GitHub: [NikhilShrivastava](https://github.com/NikhilShrivastava)
+
+
+  #### Name: Vansh Tandon
+ - Place: Roorkee, India
+ - Bio: B.Tech CSE Student
+ - GitHub: [Vansh1067](https://github.com/Vansh1067)
+
+#### Name: Divesh Sahani 
+ - Place: Maharastra, India
+ - Bio: B.Tech  Student
+ - GitHub: [divessahani](https://github.com/diveshsahani)
+
+#### Name: Muhamamd Iqbal Rofikurrahman
+ - Place: Malang, Indonesia
+ - Bio: Backend Developer
+ - GitHub: [miqbalrr](https://github.com/miqbalrr)
+ 
+#### Name: Love Tyagi
+- Place: Mohali, India
+- Bio: trainee software engineer
+- GitHub: [Love Tyagi](https://github.com/lovetyagi-17)
+
+#### Name: Mahesh Jain
+
+ - Place: Haryana, India
+ - Bio: Frontend Software Developer 
+ - GitHub: [maheshjainckd](https://github.com/maheshjainckd)
+ 
+ #### Name: Paulo Henrique
+ - Place: Goias, Brazil
+ - Bio: desenvolvedor de metodologia Go Horse
+ - GitHub: [pahesali](https://github.com/pahesali)
  
 #### Name: Aman Kumar Soni
  - Place: Bhopal, India
  - Bio: B.Tech LPU Student
  - GitHub: [computerwala](https://github.com/computerwala)
+
+#### Name: Ali Ahmad Raza
+ - Place: uttar pradesh, INDIA
+ - Bio: B.tech Student
+ - GitHub: [raza4399](https://github.com/raza4399)
+ 
+ ### Name :Sanjeev Sagar
+  -place :    Gorakhpur (up)
+  -Btech      student
+  -github:    [Sanjeev0228](https://github.com/sanjeev0228)
+
+#### Name: Nitish Chaturvedi
+ - Place: Chennai, India
+ - Bio: B.Tech CSE Student 
+ - GitHub: [waterupto](https://github.com/waterupto)
+
+#### Name: Mayank Sharma
+
+- Place: Alwar, Rajasthan, India
+- Bio: B.Tech. CSE Student
+- GitHub: [starmayank07](https://github.com/starmayank07)
+
+#### Name: Ahmad Fauzan
+
+- Place: Bekasi, Indonesia
+- Bio: Software Engineer
+- GitHub: [fauzan264](https://github.com/fauzan264)
