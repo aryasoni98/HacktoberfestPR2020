@@ -256,5 +256,5 @@
 
 #### Name: Emmadi Divya Srujana
 - Place: Delhi, India
-- Bio: Front end developer
+- Bio: IT student, Front end developer
 - GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
