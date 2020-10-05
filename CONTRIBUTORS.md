@@ -248,3 +248,8 @@
 - Place: Bekasi, Indonesia
 - Bio: Software Engineer
 - GitHub: [fauzan264](https://github.com/fauzan264)
+
+#### Name: Mochamad Putera Pamungkas
+- Place: Bandung, Indonesia
+- Bio: Junior Web Developer & UI Design
+- GitHub: [Mochamad Putera Pamungkas](https://github.com/mputerapamungkas)
