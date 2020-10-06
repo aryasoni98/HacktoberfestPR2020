@@ -9,7 +9,14 @@
  - Place: Lucknow, India
  - Bio: Software Engineer-1 
  - GitHub: [kesari007](https://github.com/kesari007)
+ 
 
+#### Name: Prateeksha Sharma
+
+ - Place: Alwar, Rajasthan ,India
+ - Bio: Btech Student, Rajasthan Technical University
+ - GitHub: [Prateeksha128](https://github.com/Prateeksha128)
+ 
 #### Name: Ayush Goyal	
 - Place: Kota, Rajasthan, India
 - Bio: B.Tech student, Rajasthan Technical University
