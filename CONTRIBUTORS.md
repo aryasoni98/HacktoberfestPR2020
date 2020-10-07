@@ -274,6 +274,11 @@
 - Bio: IT student, Front end developer
 - GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
 
+#### Name: Diana Rodarte
+- Place: Houston, Texas, United States of America
+- Bio: Computer Science graduate
+- Github: [DianaRodarte ] (https://github.com/DianaRodarte)
+
 #### Name: Viviane Ramos Luz
 - Place: Goiás, Brazil
 - Bio: Junior Web Developer, ReactJs and NodeJs
