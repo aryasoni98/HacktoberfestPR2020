@@ -8,3 +8,4 @@ const people = {
 console.log(`Hi my name is ${people.Name}, 
 have ${people.Age} years old 
 and have habilities in ${(people.Languages).join(', ')}`)
+
