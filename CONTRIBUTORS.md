@@ -180,6 +180,13 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
 
+
+ #### Name: Vaibhav Singhal
+- Place: Punjab, India
+- Bio: B.Tech Student, Co-Founder: Vabrodex )
+- GitHub: [iamvs-2002](https://github.com/iamvs-2002)
+
+
  #### Name: Nikhil Shrivastava
  - Place: Jharkhand, India
  - Bio: B.Tech Cse Student
@@ -216,6 +223,7 @@
  - Place: Goias, Brazil
  - Bio: desenvolvedor de metodologia Go Horse
  - GitHub: [pahesali](https://github.com/pahesali)
+
  
 #### Name: Aman Kumar Soni
  - Place: Bhopal, India
