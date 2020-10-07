@@ -275,6 +275,6 @@
 - GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
 
 #### Name: Jānis Īvāns
-- Place: Mālpils, Latvia
+- Place: Malpils, Latvia
 - Bio: IT Student
 - GitHub: [ANormalStick](https://github.com/ANormalStick)
