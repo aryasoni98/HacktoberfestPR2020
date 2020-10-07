@@ -273,3 +273,8 @@
 - Place: Delhi, India
 - Bio: IT student, Front end developer
 - GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
+
+#### Name: Viviane Ramos Luz
+- Place: Goiás, Brazil
+- Bio: Junior Web Developer, ReactJs and NodeJs
+- GitHub: [Viviane Ramos](https://github.com/vivi3008 )
