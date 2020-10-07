@@ -39,6 +39,11 @@
 - Bio: B.Tech CSE Student
 - GitHub: [Shashwat Mishra](https://github.com/ampsteric)
 
+#### Name: Yna Roxas
+- Place: Eagan, Minnesota, USA
+- Bio: CSCI Student
+- GitHub: [Lumirecia](https://github.com/Lumirecia)
+
 #### Name: Pallavi Savant
 
 - Place: Bengaluru , Karnataka India.
