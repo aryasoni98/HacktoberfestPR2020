@@ -274,6 +274,11 @@
 - Bio: IT student, Front end developer
 - GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
 
+#### Name: Kumar Gaurav
+- Place: Barh, Bihar, India
+- Bio: Lazy people are always eager to be doing something. (practicing Data scientist)
+- GitHub: [iamkumar-gaurav](https://github.com/iamkumar-gaurav)
+
 #### Name: Jānis Īvāns
 - Place: Malpils, Latvia
 - Bio: IT Student
