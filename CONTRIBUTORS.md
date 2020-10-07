@@ -274,6 +274,11 @@
 - Bio: IT student, Front end developer
 - GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
 
+#### Name: Viviane Ramos Luz
+- Place: Goiás, Brazil
+- Bio: Junior Web Developer, ReactJs and NodeJs
+- GitHub: [Viviane Ramos](https://github.com/vivi3008 )
+
 #### Name: Kumar Gaurav
 - Place: Barh, Bihar, India
 - Bio: Lazy people are always eager to be doing something. (practicing Data scientist)
