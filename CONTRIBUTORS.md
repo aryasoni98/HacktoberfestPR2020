@@ -253,3 +253,9 @@
 - Place: Bandung, Indonesia
 - Bio: Junior Web Developer & UI Design
 - GitHub: [Mochamad Putera Pamungkas](https://github.com/mputerapamungkas)
+
+#### Name: Adil Saad
+- Place: dhanbad, Jharkhand
+- Bio: cloud enthusiast
+- GitHub: [Adil-S786](https://github.com/Adil-S786)
+
