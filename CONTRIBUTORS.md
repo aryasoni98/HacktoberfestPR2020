@@ -9,7 +9,14 @@
  - Place: Lucknow, India
  - Bio: Software Engineer-1 
  - GitHub: [kesari007](https://github.com/kesari007)
+ 
 
+#### Name: Prateeksha Sharma
+
+ - Place: Alwar, Rajasthan ,India
+ - Bio: Btech Student, Rajasthan Technical University
+ - GitHub: [Prateeksha128](https://github.com/Prateeksha128)
+ 
 #### Name: Ayush Goyal	
 - Place: Kota, Rajasthan, India
 - Bio: B.Tech student, Rajasthan Technical University
@@ -31,6 +38,11 @@
 - Place: Bhilai , Chhattisgarh , India
 - Bio: B.Tech CSE Student
 - GitHub: [Shashwat Mishra](https://github.com/ampsteric)
+
+#### Name: Yna Roxas
+- Place: Eagan, Minnesota, USA
+- Bio: CSCI Student
+- GitHub: [Lumirecia](https://github.com/Lumirecia)
 
 #### Name: Pallavi Savant
 
@@ -173,6 +185,13 @@
  - Bio: B.Tech ICT Student
  - GitHub: [Ashray11](https://github.com/Ashray11)
 
+
+ #### Name: Vaibhav Singhal
+- Place: Punjab, India
+- Bio: B.Tech Student, Co-Founder: Vabrodex )
+- GitHub: [iamvs-2002](https://github.com/iamvs-2002)
+
+
  #### Name: Nikhil Shrivastava
  - Place: Jharkhand, India
  - Bio: B.Tech Cse Student
@@ -209,6 +228,7 @@
  - Place: Goias, Brazil
  - Bio: desenvolvedor de metodologia Go Horse
  - GitHub: [pahesali](https://github.com/pahesali)
+
  
 #### Name: Aman Kumar Soni
  - Place: Bhopal, India
@@ -258,4 +278,30 @@
 - Place: dhanbad, Jharkhand
 - Bio: cloud enthusiast
 - GitHub: [Adil-S786](https://github.com/Adil-S786)
+
+=======
+#### Name: Emmadi Divya Srujana
+- Place: Delhi, India
+- Bio: IT student, Front end developer
+- GitHub: [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
+
+#### Name: Diana Rodarte
+- Place: Houston, Texas, United States of America
+- Bio: Computer Science graduate
+- Github: [DianaRodarte ] (https://github.com/DianaRodarte)
+
+#### Name: Viviane Ramos Luz
+- Place: Goiás, Brazil
+- Bio: Junior Web Developer, ReactJs and NodeJs
+- GitHub: [Viviane Ramos](https://github.com/vivi3008 )
+
+#### Name: Kumar Gaurav
+- Place: Barh, Bihar, India
+- Bio: Lazy people are always eager to be doing something. (practicing Data scientist)
+- GitHub: [iamkumar-gaurav](https://github.com/iamkumar-gaurav)
+
+#### Name: Jānis Īvāns
+- Place: Malpils, Latvia
+- Bio: IT Student
+- GitHub: [ANormalStick](https://github.com/ANormalStick)
 
