@@ -298,3 +298,8 @@
 - Place: Malpils, Latvia
 - Bio: IT Student
 - GitHub: [ANormalStick](https://github.com/ANormalStick)
+
+#### Name: Inzaghi
+- Place: Makassar, Indonesia
+- Bio: Py lover
+- GitHub: [InMDev](https://github.com/InMDev)
