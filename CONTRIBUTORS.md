@@ -329,3 +329,8 @@
 - Place: Selangor, Malaysia 🇲🇾
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+#### Name: Laura Christensen
+- Place: Columbia, Missouri
+- Bio: Web Applications Programmer
+- GitHub: [laurachristensen1214](https://github.com/laurachristensen1214)
