@@ -9,14 +9,14 @@
  - Place: Lucknow, India
  - Bio: Software Engineer-1 
  - GitHub: [kesari007](https://github.com/kesari007)
- 
+
 
 #### Name: Prateeksha Sharma
 
  - Place: Alwar, Rajasthan ,India
  - Bio: Btech Student, Rajasthan Technical University
  - GitHub: [Prateeksha128](https://github.com/Prateeksha128)
- 
+
 #### Name: Ayush Goyal	
 - Place: Kota, Rajasthan, India
 - Bio: B.Tech student, Rajasthan Technical University
@@ -26,7 +26,7 @@
  - Place: Bhubaneshwar, India
  - Bio: B.Tech Cse Student
  - GitHub: [anmol lenka](https://github.com/Anmollenka)
- 
+
 #### Name: Arnab Saha
 
 - Place: Coimbatore, India
@@ -84,7 +84,7 @@
  - Place: Dehradun, India
  - Bio: B.Tech Student, G.B. Pant Institute of Engineering and Technology, Microsoft Learn Student Ambassador(https://www.linkedin.com/in/vrinda-gupta-149891186) 
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
- 
+
 #### Name: Lakshya
  - Place: Indore, India
  - Bio: 9th Class Student
@@ -100,12 +100,12 @@
  - Bio: Python Enthusiast , React Native App developer , and currently exploring Embedded Systems and IOT.
  - LinkedIn - [Lets Connect and Learn Together]https://www.linkedin.com/in/shishir-choudhary-189399176/	
  - GitHub: [Shishir Choudhary](https://github.com/Shishir198)
- 
+
  #### Name: Sonu Kushwaha
  - Place: Patna, India
  - Bio: Python Enthusiast 
  - GitHub: [Sonu kushwaha](https://github.com/sonucodes)
- 
+
 #### Name: Mayank Sharma
 - Place: Jaipur, Rajasthan, India
 - Bio: B.Tech. CSE Student
@@ -179,7 +179,7 @@
  - Place: Kolkata, India
  - Bio: B.Tech Cse Student
  - GitHub: [prithvirajcodes](https://github.com/prithvirajcodes)
- 
+
 #### Name: Ashray Kothari
  - Place: Vadodara, India
  - Bio: B.Tech ICT Student
@@ -212,7 +212,7 @@
  - Place: Malang, Indonesia
  - Bio: Backend Developer
  - GitHub: [miqbalrr](https://github.com/miqbalrr)
- 
+
 #### Name: Love Tyagi
 - Place: Mohali, India
 - Bio: trainee software engineer
@@ -223,13 +223,13 @@
  - Place: Haryana, India
  - Bio: Frontend Software Developer 
  - GitHub: [maheshjainckd](https://github.com/maheshjainckd)
- 
+
  #### Name: Paulo Henrique
  - Place: Goias, Brazil
  - Bio: desenvolvedor de metodologia Go Horse
  - GitHub: [pahesali](https://github.com/pahesali)
 
- 
+
 #### Name: Aman Kumar Soni
  - Place: Bhopal, India
  - Bio: B.Tech LPU Student
@@ -239,7 +239,7 @@
  - Place: uttar pradesh, INDIA
  - Bio: B.tech Student
  - GitHub: [raza4399](https://github.com/raza4399)
- 
+
  ### Name :Sanjeev Sagar
   -place :    Gorakhpur (up)
   -Btech      student
@@ -319,3 +319,8 @@
 - Lugar: Cucuta, Norte de Santander, Colombia
  - Bio: Computer Science Student 
 - GitHub: [Yilberp] (https://github.com/Yilberp)
+
+#### Name: Haqqiem Gafa
+- Place: Selangor, Malaysia 🇲🇾
+- Bio: Fullstack Developer
+- GitHub: [haqqiem](https://github.com/haqqiem)
