@@ -329,3 +329,8 @@
 - Place: Selangor, Malaysia 🇲🇾
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+#### Name: Eddie Fisher
+- Place: South Coast, UK
+- Bio: Fullstack Developer
+- GitHub: [frogo123](https://github.com/frogo123)
