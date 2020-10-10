@@ -329,3 +329,9 @@
 - Place: Selangor, Malaysia 🇲🇾
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+#### Name: Bryan Culver
+
+- Place: Honolulu, HI, USA
+- Bio: ASU graduate, Amature Developer [BuildBryan.com](http://www.buildbryan.com)
+- GitHub: [Bryan Culver](https://github.com/Bryan-Culver) 
