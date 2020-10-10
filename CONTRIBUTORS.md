@@ -329,3 +329,8 @@
 - Place: Selangor, Malaysia 🇲🇾
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+### Name : Himani Jindal
+- Place: Punjab, India
+-Bio :Btech Computer Science Student
+-Github: [HimaniJindal](https://github.com/HimaniJindal)
