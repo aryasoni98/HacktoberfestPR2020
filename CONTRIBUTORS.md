@@ -329,3 +329,9 @@
 - Place: Selangor, Malaysia 🇲🇾
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+#### Name: Anisha Singh
+
+ - Place: Secunderabad, Telangana, India
+ - Bio: Learning to be a full stack developer and a novice competitive programmer
+ - GitHub: [Anishahaha](https://github.com/Anishahaha)
