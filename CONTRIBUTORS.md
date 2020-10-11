@@ -22,6 +22,11 @@
 - Bio: B.Tech student, Rajasthan Technical University
 - GitHub: [ayush179](https://github.com/ayush179)
 
+### Name: Geovany Mantilla
+-Place Cúcuta, colombia
+-Bio: Universidad Francisco de Paula santander
+GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
+
 #### Name: Anmol Lenka
  - Place: Bhubaneshwar, India
  - Bio: B.Tech Cse Student
@@ -334,3 +339,9 @@
 - Lugar: Cucuta, Norte de Santander, Colombia
  - Bio: Estudiante de ingenieria de sistemas 
 - GitHub: [eduardcantillo] (https://github.com/eduardcantillo)
+
+#### Name: Anisha Singh
+
+ - Place: Secunderabad, Telangana, India
+ - Bio: Learning to be a full stack developer and a novice competitive programmer
+ - GitHub: [Anishahaha](https://github.com/Anishahaha)
