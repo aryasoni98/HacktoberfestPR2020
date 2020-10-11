@@ -335,6 +335,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
 
+####  Nombre: Eduard Cantillo 
+- Lugar: Cucuta, Norte de Santander, Colombia
+ - Bio: Estudiante de ingenieria de sistemas 
+- GitHub: [eduardcantillo] (https://github.com/eduardcantillo)
+
 #### Name: Anisha Singh
 
  - Place: Secunderabad, Telangana, India
