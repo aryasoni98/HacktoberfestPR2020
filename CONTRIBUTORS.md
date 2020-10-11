@@ -394,3 +394,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
+ 
+ #### Name: Ayush Ranjan
+
+- Place: Jharkhand, India
+- Bio: Computer Science Student
+- GitHub: [azus2000](https://github.com/azus2000)
