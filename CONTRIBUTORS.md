@@ -1,4 +1,4 @@
-#### Name: Arya Soni
+﻿#### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
@@ -21,6 +21,11 @@
 - Place: Kota, Rajasthan, India
 - Bio: B.Tech student, Rajasthan Technical University
 - GitHub: [ayush179](https://github.com/ayush179)
+
+### Name: Geovany Mantilla
+-Place Cúcuta, colombia
+-Bio: Universidad Francisco de Paula santander
+GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 #### Name: Anmol Lenka
  - Place: Bhubaneshwar, India
