@@ -33,6 +33,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: B.Tech Cse Student
 - GitHub: [anmol lenka](https://github.com/Anmollenka)
 
+#### Name: Vrinda Jadwani
+
+- Place: Indore, India
+- Bio: B.Tech Student
+- GitHub: [vrindajadwani](https://github.com/vrindajadwani)
+
+
 #### Name: Arnab Saha
 
 - Place: Coimbatore, India
