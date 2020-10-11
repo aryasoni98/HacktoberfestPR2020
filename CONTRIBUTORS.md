@@ -1,3 +1,9 @@
+#### Name: Anjali Singh
+
+- Place: Ahmedabad, India
+- Bio: B.Tech Student
+- GitHub: [Anjali Singh](https://github.com/anjali-coder)
+
 #### Name: Arya Soni
 
 - Place: Delhi, India
