@@ -394,3 +394,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
+ 
+ #### Name: Diya Acharya
+- Place: Mysuru, Karnataka, India
+- Bio: coder IT STUDENT
+- GitHub: [diyaacharya](https://github.com/diyaacharya)
