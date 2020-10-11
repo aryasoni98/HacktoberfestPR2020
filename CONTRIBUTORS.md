@@ -1,4 +1,4 @@
-#### Name: Arya Soni
+﻿#### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
@@ -329,3 +329,8 @@
 - Place: Selangor, Malaysia 🇲🇾
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+####  Nombre: Eduard Cantillo 
+- Lugar: Cucuta, Norte de Santander, Colombia
+ - Bio: Estudiante de ingenieria de sistemas 
+- GitHub: [eduardcantillo] (https://github.com/eduardcantillo)
