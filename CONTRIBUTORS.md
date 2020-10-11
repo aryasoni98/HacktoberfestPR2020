@@ -335,6 +335,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
 
+####  Nombre: Gregorio Perez
+- Lugar: Cucuta, Norte de Santander, Colombia
+ - Bio: Estudiante de Ingenieria de Sistemas
+- GitHub: [GregorioPM] (https://github.com/GregorioPM)
+
 ####  Nombre: Eduard Cantillo 
 - Lugar: Cucuta, Norte de Santander, Colombia
  - Bio: Estudiante de ingenieria de sistemas 
