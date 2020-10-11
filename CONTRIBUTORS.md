@@ -1,4 +1,4 @@
-#### Name: Arya Soni
+﻿#### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
@@ -21,6 +21,11 @@
 - Place: Kota, Rajasthan, India
 - Bio: B.Tech student, Rajasthan Technical University
 - GitHub: [ayush179](https://github.com/ayush179)
+
+### Name: Geovany Mantilla
+-Place Cúcuta, colombia
+-Bio: Universidad Francisco de Paula santander
+GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 #### Name: Anmol Lenka
 
@@ -373,3 +378,19 @@
 - Place: Rawalpindi, Pakistan
 - Bio: A Student strugling to code
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+####  Nombre: Gregorio Perez
+- Lugar: Cucuta, Norte de Santander, Colombia
+ - Bio: Estudiante de Ingenieria de Sistemas
+- GitHub: [GregorioPM] (https://github.com/GregorioPM)
+
+####  Nombre: Eduard Cantillo 
+- Lugar: Cucuta, Norte de Santander, Colombia
+ - Bio: Estudiante de ingenieria de sistemas 
+- GitHub: [eduardcantillo] (https://github.com/eduardcantillo)
+
+#### Name: Anisha Singh
+
+ - Place: Secunderabad, Telangana, India
+ - Bio: Learning to be a full stack developer and a novice competitive programmer
+ - GitHub: [Anishahaha](https://github.com/Anishahaha)
