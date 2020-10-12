@@ -1,4 +1,4 @@
-﻿#### Name: Arya Soni
+#### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
@@ -23,7 +23,7 @@
 - GitHub: [ayush179](https://github.com/ayush179)
 
 ### Name: Geovany Mantilla
--Place Cúcuta, colombia
+-Place C�cuta, colombia
 -Bio: Universidad Francisco de Paula santander
 GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
@@ -327,7 +327,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 #### Name: Viviane Ramos Luz
 
-- Place: Goiás, Brazil
+- Place: Goi�s, Brazil
 - Bio: Junior Web Developer, ReactJs and NodeJs
 - GitHub: [Viviane Ramos](https://github.com/vivi3008)
 
@@ -337,7 +337,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Lazy people are always eager to be doing something. (practicing Data scientist)
 - GitHub: [iamkumar-gaurav](https://github.com/iamkumar-gaurav)
 
-#### Name: Jānis Īvāns
+#### Name: J?nis ?v?ns
 
 - Place: Malpils, Latvia
 - Bio: IT Student
@@ -361,7 +361,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Estudiante de Ingenieria de Sistemas
 - GitHub: [J-Andres-Rodriguez](https://github.com/J-Andres-Rodriguez)
 
-#### Nombre: Yilber Patiño
+#### Nombre: Yilber Pati�o
 
 - Lugar: Cucuta, Norte de Santander, Colombia
 - Bio: Computer Science Student
@@ -369,7 +369,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 #### Name: Haqqiem Gafa
 
-- Place: Selangor, Malaysia 🇲🇾
+- Place: Selangor, Malaysia ????
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
 
@@ -400,3 +400,10 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+
+#### Name: Pradyoth P
+
+ - Place: Mysuru,Karnataka,India
+ - Bio: An Engineering(Information Science) Student at The National Institute Of Engineering, Mysuru. 
+ - GitHub: [ppradyoth](https://github.com/ppradyoth)
+ 
