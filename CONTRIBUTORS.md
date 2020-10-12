@@ -394,3 +394,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
+ 
+#### Name: Vivek
+
+ - Place: Kurukshetra, Haryana, India
+ - Bio: Student and system enthusiast
+ - GitHub: [vivek-alt](https://github.com/vivek-alt)
