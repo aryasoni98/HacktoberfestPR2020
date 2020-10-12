@@ -1,0 +1,54 @@
+/**
+ Write a java  program which accept string from user and count number of small characters. 
+
+Input :   “Marvellous” 
+
+Output :   9 
+**/
+
+import java.util.*;
+
+class stringDemo
+{  
+  public int CountSmall(String input)  
+  {  
+    char Arr[]=input.toCharArray();
+    int len=Arr.length;
+    int icnt=0;
+
+    for(int i=0;i<len;i++)
+    {
+       if((Arr[i]>='a')&&(Arr[i]<='z'))
+       {
+          icnt++;
+       }
+    }
+    
+    return icnt;
+  }
+} 
+
+class DEMO562
+{
+  public static void main(String arg[])
+  {
+
+    Scanner sobj=new Scanner(System.in);
+
+    System.out.println("enter string");
+
+    String str=sobj.nextLine();
+    stringDemo nobj=new stringDemo();
+
+    int iRet=0;
+
+    iRet = nobj.CountSmall(str);
+
+    System.out.println("string count is" + iRet);
+
+
+}
+
+
+}
+
