@@ -400,3 +400,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+ 
+ #### Name: Rohit Kumar
+- Place: Lucknow, U.P, India
+- Bio: Web developer, competitive programmer
+- GitHub: [RohitKumar-200](https://github.com/RohitKumar-200)
