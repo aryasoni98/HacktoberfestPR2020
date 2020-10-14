@@ -384,9 +384,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: Estudiante de Ingenieria de Sistemas
 - GitHub: [GregorioPM] (https://github.com/GregorioPM)
 
-####  Nombre: Eduard Cantillo 
+####  Nombre: Eduard Cantillo
 - Lugar: Cucuta, Norte de Santander, Colombia
- - Bio: Estudiante de ingenieria de sistemas 
+ - Bio: Estudiante de ingenieria de sistemas
 - GitHub: [eduardcantillo] (https://github.com/eduardcantillo)
 
 #### Name: Anisha Singh
@@ -394,9 +394,14 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
- 
+
 #### Name: Vivek
 
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+
+ #### Name: Eugene Lezov
+ - Place: Kaliningrad, Russia
+ - Bio: I'm iOS Developer
+ - GitHub: [ELezov](https://github.com/ELezov)
