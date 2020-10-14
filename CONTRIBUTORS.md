@@ -10,6 +10,12 @@
 - Bio: Software Engineer-1
 - GitHub: [kesari007](https://github.com/kesari007)
 
+#### Name: Rusiru Anupa,a
+
+- Place: Galle,Sri Lanka
+- Bio: Self-Taught Developer
+- GitHub: [sparkstark03](https://github.com/sparkstark03)
+
 #### Name: Prateeksha Sharma
 
 - Place: Alwar, Rajasthan ,India
