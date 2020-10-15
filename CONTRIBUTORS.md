@@ -448,3 +448,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+#### Name: Shubham Sharma
+ - Place: Shimla, India
+ - Bio: I'm web Developer
+ - GitHub: [HeisenBug-07](https://github.com/HeisenBug-07)
