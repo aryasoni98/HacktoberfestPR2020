@@ -435,3 +435,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kaliningrad, Russia
  - Bio: I'm iOS Developer
  - GitHub: [ELezov](https://github.com/ELezov)
+
+﻿#### Name: Rizky Ferdi Nugraha
+
+- Place: Karawang, West Java, Indonesia
+- Bio: Student
+- GitHub: [rcmiryad123](https://github.com/rcmiryad123)
