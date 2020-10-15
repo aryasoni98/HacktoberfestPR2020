@@ -449,4 +449,3 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Norway
  - Bio: Student and hobby coder
  - GitHub: [KJ-coder](https://github.com/KJ-coder)
->>>>>>> Stashed changes
