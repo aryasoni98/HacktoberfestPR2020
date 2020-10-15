@@ -407,7 +407,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
 
- #### Name: Eugene Lezov
+#### Name: Abhishek Sharma
+
+- Place: Delhi, India
+- Bio: Software Engineer
+- GitHub: [abhi0504](https://github.com/abhi0504)
+
+#### Name: Eugene Lezov
  - Place: Kaliningrad, Russia
  - Bio: I'm iOS Developer
  - GitHub: [ELezov](https://github.com/ELezov)
