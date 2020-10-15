@@ -1,5 +1,5 @@
-#### Name: Arya Soni
-
+ #### Name: Arya Soni
+ 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
@@ -9,6 +9,12 @@
 - Place: Kolkata, West Bengal, India
 - Bio: B.Tech Student, Techno India University
 - GitHub: [Souvik73](https://github.com/Souvik73)
+
+﻿#### Name: Apoorv Maheshwari
+
+- Place: Uttar Pradesh, India
+- Bio: B.Tech Student, Flutter Developer
+- GitHub: [Apoorv Maheshwari](https://github.com/Apoorv-cloud)
 
 #### Name: Ankur Kesharwani
 
@@ -390,9 +396,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: Estudiante de Ingenieria de Sistemas
 - GitHub: [GregorioPM] (https://github.com/GregorioPM)
 
-####  Nombre: Eduard Cantillo 
+####  Nombre: Eduard Cantillo
 - Lugar: Cucuta, Norte de Santander, Colombia
- - Bio: Estudiante de ingenieria de sistemas 
+ - Bio: Estudiante de ingenieria de sistemas
 - GitHub: [eduardcantillo] (https://github.com/eduardcantillo)
 
 #### Name: Anisha Singh
@@ -400,9 +406,26 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
- 
+
 #### Name: Vivek
 
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+ 
+ #### Name: Rohit
+- Place: Kanpur, U.P, India
+- Bio: Student
+- GitHub: [rohit57382](https://github.com/rohit57382)
+
+
+#### Name: Abhishek Sharma
+
+- Place: Delhi, India
+- Bio: Software Engineer
+- GitHub: [abhi0504](https://github.com/abhi0504)
+
+#### Name: Eugene Lezov
+ - Place: Kaliningrad, Russia
+ - Bio: I'm iOS Developer
+ - GitHub: [ELezov](https://github.com/ELezov)
