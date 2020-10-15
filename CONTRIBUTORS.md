@@ -1,4 +1,10 @@
-﻿#### Name: Arya Soni
+﻿#### Name: Apoorv Maheshwari
+
+- Place: Uttar Pradesh, India
+- Bio: B.Tech Student, Flutter Developer
+- GitHub: [Apoorv Maheshwari](https://github.com/Apoorv-cloud)
+ 
+ #### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
