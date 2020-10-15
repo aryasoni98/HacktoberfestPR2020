@@ -418,6 +418,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+<<<<<<< Updated upstream
  
  #### Name: Rohit
 - Place: Kanpur, U.P, India
@@ -441,3 +442,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+=======
+
+### Name: Kjell Andre
+
+ - Place: Norway
+ - Bio: Student and hobby coder
+ - GitHub: [KJ-coder](https://github.com/KJ-coder)
+>>>>>>> Stashed changes
