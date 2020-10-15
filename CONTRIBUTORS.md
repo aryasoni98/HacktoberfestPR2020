@@ -1,4 +1,9 @@
- #### Name: Arya Soni
+#### Name: Rahul Roy
+- Place: Gorakhpur, Uttar Pradesh, India
+- Bio: B.Tech CSE Student, Kalinga Institute of Industrial Technology 
+- GitHub: [Roy0Anonymous](https://github.com/Roy0Anonymous)
+
+#### Name: Arya Soni
  
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
