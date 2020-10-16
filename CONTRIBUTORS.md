@@ -1,5 +1,5 @@
- #### Name: Arya Soni
- 
+ #### Name: Arya soni
+
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
@@ -10,11 +10,11 @@
 - Bio: B.Tech Student, Techno India University
 - GitHub: [Souvik73](https://github.com/Souvik73)
 
-﻿#### Name: Apoorv Maheshwari
+﻿#### Name: Rachit Khandelwal
 
-- Place: Uttar Pradesh, India
-- Bio: B.Tech Student, Flutter Developer
-- GitHub: [Apoorv Maheshwari](https://github.com/Apoorv-cloud)
+- Place: Bharatpur, India
+- Bio: B.Tech Student
+- GitHub: [iamrk09](https://github.com/iamrk09)
 
 #### Name: Ankur Kesharwani
 
@@ -425,7 +425,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
- 
+
  #### Name: Rohit
 - Place: Kanpur, U.P, India
 - Bio: Student
