@@ -448,3 +448,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+#### Name: Pankaj Mali
+ - Place: Ahmedabad, India.
+ - Bio: student
+ - GitHub: [pankaj812](https://github.com/pankaj812)
