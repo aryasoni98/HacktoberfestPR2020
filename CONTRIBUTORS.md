@@ -409,11 +409,16 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
 
+#### Name: Eddie Fisher
+- Place: South Coast, UK
+- Bio: Fullstack Developer
+- GitHub: [frogo123](https://github.com/frogo123)
+
 #### Name: Laura Christensen
 - Place: Columbia, Missouri
 - Bio: Web Applications Programmer
 - GitHub: [laurachristensen1214](https://github.com/laurachristensen1214)
-=======
+
 #### Name: fawad khan
 
 - Place: Rawalpindi, Pakistan
