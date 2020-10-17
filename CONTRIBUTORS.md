@@ -448,3 +448,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+#### Name: Vicky Raghuwanshi 
+
+- Place: Indore,Madhya Pradesh,India
+- Bio: College Student
+- Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
