@@ -528,3 +528,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Indore,Madhya Pradesh,India
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
+
+#### Name: Abhishek Kumar Shukla
+
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: College Student
+- Github: [Abhishekalbert](https://github.com/abhishekalbert)
