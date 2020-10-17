@@ -1,16 +1,22 @@
- #### Name: Arya Soni
+#### Name: Nanda Sai Kishor
+
+ - Place: Telangana, India
+ - Bio: B.Tech Student, Web Developer
+ - GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
+
+#### Name: Arya Soni
  
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
 - GitHub: [Arya Soni](https://github.com/aryasoni98)
 
-﻿#### Name: Souvik Banerjee
+#### Name: Souvik Banerjee
 
 - Place: Kolkata, West Bengal, India
 - Bio: B.Tech Student, Techno India University
 - GitHub: [Souvik73](https://github.com/Souvik73)
 
-﻿#### Name: Apoorv Maheshwari
+#### Name: Apoorv Maheshwari
 
 - Place: Uttar Pradesh, India
 - Bio: B.Tech Student, Flutter Developer
