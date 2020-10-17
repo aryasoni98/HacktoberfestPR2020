@@ -39,6 +39,12 @@
 - Bio: Self-Taught Developer
 - GitHub: [sparkstark03](https://github.com/sparkstark03)
 
+#### Name: Rishikesh Raj
+
+- Place: Jaiput, Rajasthan, India
+- Bio: B.Tech(CSE), AIET
+- GitHub: [Rishikeshrajrxl](https://github.com/rishikeshrajrxl)
+
 #### Name: Prateeksha Sharma
 
 - Place: Alwar, Rajasthan ,India
