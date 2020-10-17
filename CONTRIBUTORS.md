@@ -451,6 +451,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
 
+#### Name: Parjanya HK
+- Place: Mysore, Karnataka, India
+- Bio: Microsoft Technology Associate
+- GitHub: [parjanyahk](https://GitHub.com/parjanyahk)
+
 #### Name: Vivek
 
  - Place: Kurukshetra, Haryana, India
@@ -461,7 +466,6 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Kanpur, U.P, India
 - Bio: Student
 - GitHub: [rohit57382](https://github.com/rohit57382)
-
 
 #### Name: Abhishek Sharma
 
