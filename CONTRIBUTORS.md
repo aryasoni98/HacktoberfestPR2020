@@ -528,3 +528,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Indore,Madhya Pradesh,India
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
+
+#### Name: Athul John
+
+- Place: Kerala,India
+- Bio: College Student
+- Github: [AthulJohn](https://github.com/AthulJohn)
