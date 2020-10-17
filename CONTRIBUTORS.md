@@ -528,3 +528,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Indore,Madhya Pradesh,India
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
+
+#### Name: Emily Basile
+
+- Place: Dallas, Texas, United States of America
+- Bio: Accounting Student
+- GitHub: [kree666](https://github.com/kree666)
