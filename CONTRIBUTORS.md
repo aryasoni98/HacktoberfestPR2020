@@ -451,7 +451,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
  
- #### Name: Diya Acharya
+ #### Name: Ayush Ranjan
+
+- Place: Jharkhand, India
+- Bio: Computer Science Student
+- GitHub: [azus2000](https://github.com/azus2000)
+
+#### Name: Diya Acharya
 - Place: Mysuru, Karnataka, India
 - Bio: coder IT STUDENT
 - GitHub: [diyaacharya](https://github.com/diyaacharya)
