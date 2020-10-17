@@ -443,11 +443,16 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: I'm iOS Developer
  - GitHub: [ELezov](https://github.com/ELezov)
 
-﻿#### Name: Rizky Ferdi Nugraha
+#### Name: Rizky Ferdi Nugraha
 
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+#### Name: Shubham Sharma
+ - Place: Shimla, India
+ - Bio: I'm web Developer
+ - GitHub: [HeisenBug-07](https://github.com/HeisenBug-07)
 
 #### Name: Vicky Raghuwanshi 
 
