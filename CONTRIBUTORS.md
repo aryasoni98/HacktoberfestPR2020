@@ -2,15 +2,21 @@
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
-- GitHub: [Arya Soni](https://github.com/aryasoni98)
+- GitHub: [Arya Soni](https://github.com/aryasoni98) 
+ 
+ #### Name: Hemant
 
-﻿#### Name: Souvik Banerjee
+- place: Hisar, India
+- Bio: B.Tech Student, Flutter Developer
+-Github: [Hemant72](https://github.com/Hemant72)
+ 
+#### Name: Souvik Banerjee
 
 - Place: Kolkata, West Bengal, India
 - Bio: B.Tech Student, Techno India University
 - GitHub: [Souvik73](https://github.com/Souvik73)
 
-﻿#### Name: Rachit Khandelwal
+#### Name: Rachit Khandelwal
 
 - Place: Bharatpur, India
 - Bio: B.Tech Student
