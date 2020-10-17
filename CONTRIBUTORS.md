@@ -41,7 +41,7 @@
 
 #### Name: Rishikesh Raj
 
-- Place: Jaiput, Rajasthan, India
+- Place: Jaipur, Rajasthan, India
 - Bio: B.Tech(CSE), AIET
 - GitHub: [Rishikeshrajrxl](https://github.com/rishikeshrajrxl)
 
