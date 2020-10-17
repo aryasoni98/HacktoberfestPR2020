@@ -1,26 +1,26 @@
+ #### Name: Arya soni
+
+- Place: Delhi, India
+- Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
+- GitHub: [Arya Soni](https://github.com/aryasoni98) 
+ 
  #### Name: Hemant
 
 - place: Hisar, India
 - Bio: B.Tech Student, Flutter Developer
 -Github: [Hemant72](https://github.com/Hemant72)
-
- #### Name: Arya Soni
  
-- Place: Delhi, India
-- Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
-- GitHub: [Arya Soni](https://github.com/aryasoni98)
-
-﻿#### Name: Souvik Banerjee
+#### Name: Souvik Banerjee
 
 - Place: Kolkata, West Bengal, India
 - Bio: B.Tech Student, Techno India University
 - GitHub: [Souvik73](https://github.com/Souvik73)
 
-﻿#### Name: Apoorv Maheshwari
+#### Name: Rachit Khandelwal
 
-- Place: Uttar Pradesh, India
-- Bio: B.Tech Student, Flutter Developer
-- GitHub: [Apoorv Maheshwari](https://github.com/Apoorv-cloud)
+- Place: Bharatpur, India
+- Bio: B.Tech Student
+- GitHub: [iamrk09](https://github.com/iamrk09)
 
 #### Name: Ankur Kesharwani
 
@@ -431,7 +431,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
- 
+
  #### Name: Rohit
 - Place: Kanpur, U.P, India
 - Bio: Student
@@ -449,8 +449,30 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: I'm iOS Developer
  - GitHub: [ELezov](https://github.com/ELezov)
 
-﻿#### Name: Rizky Ferdi Nugraha
+#### Name: Rizky Ferdi Nugraha
 
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+ #### Name: Rajesh Kumar
+ 
+- Place: Delhi, India
+- Bio: B.Tech Student, Interested in web devlopment 
+- GitHub: [Rajesh Kumar](https://github.com/Raj77230)
+
+#### Name: Pankaj Mali
+ - Place: Ahmedabad, India.
+ - Bio: student
+ - GitHub: [pankaj812](https://github.com/pankaj812)
+
+#### Name: Shubham Sharma
+ - Place: Shimla, India
+ - Bio: I'm web Developer
+ - GitHub: [HeisenBug-07](https://github.com/HeisenBug-07)
+
+#### Name: Vicky Raghuwanshi 
+
+- Place: Indore,Madhya Pradesh,India
+- Bio: College Student
+- Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
