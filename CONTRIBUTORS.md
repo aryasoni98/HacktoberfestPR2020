@@ -588,6 +588,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 
+#### Name: Sejal Rathore
+- Place: Jodhpur, Rajasthan, India
+- Bio: B.tech Student, Intrested in competitive Programming 
+- GitHub: [Sejal_1126](https://github.com/sejal1126)
+
 #### Name: Athira Kunjumon 
 
 - Place: Kerala,India
@@ -635,4 +640,3 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: New Delhi, India
 - Bio: B.Tech Student
 - GitHub: [SanidhyaBreja](https://github.com/SanidhyaBreja)
-
