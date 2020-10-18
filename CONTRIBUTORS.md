@@ -1,20 +1,37 @@
- #### Name: Arya Soni
+#### Name: Nanda Sai Kishor
+
+- Place: Telangana, India
+- Bio: B.Tech Student, Web Developer
+- GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
  
+#### Name: Arya Soni
+
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
-- GitHub: [Arya Soni](https://github.com/aryasoni98)
+- GitHub: [Arya Soni](https://github.com/aryasoni98) 
 
-﻿#### Name: Souvik Banerjee
+#### Name: Rahul Roy
+- Place: Gorakhpur, Uttar Pradesh, India
+- Bio: B.Tech CSE Student, Kalinga Institute of Industrial Technology 
+- GitHub: [Roy0Anonymous](https://github.com/Roy0Anonymous)
+ 
+ #### Name: Hemant
+
+- place: Hisar, India
+- Bio: B.Tech Student, Flutter Developer
+-Github: [Hemant72](https://github.com/Hemant72)
+ 
+#### Name: Souvik Banerjee
 
 - Place: Kolkata, West Bengal, India
 - Bio: B.Tech Student, Techno India University
 - GitHub: [Souvik73](https://github.com/Souvik73)
 
-﻿#### Name: Apoorv Maheshwari
+#### Name: Rachit Khandelwal
 
-- Place: Uttar Pradesh, India
-- Bio: B.Tech Student, Flutter Developer
-- GitHub: [Apoorv Maheshwari](https://github.com/Apoorv-cloud)
+- Place: Bharatpur, India
+- Bio: B.Tech Student
+- GitHub: [iamrk09](https://github.com/iamrk09)
 
 #### Name: Ankur Kesharwani
 
@@ -50,6 +67,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Bhubaneshwar, India
 - Bio: B.Tech Cse Student
 - GitHub: [anmol lenka](https://github.com/Anmollenka)
+
+#### Name: Vrinda Jadwani
+
+- Place: Indore, India
+- Bio: B.Tech Student
+- GitHub: [vrindajadwani](https://github.com/vrindajadwani)
+
 
 #### Name: Arnab Saha
 
@@ -391,6 +415,26 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
 
+#### Name: Cristian Fernando Camargo Castellanos
+- Place: Cucuta, Norte de Santander, Colombia
+- Bio: student
+- GitHub: [CristianCamargo04](https://github.com/CristianCamargo04)
+
+### Name : Himani Jindal
+- Place: Punjab, India
+-Bio :Btech Computer Science Student
+-Github: [HimaniJindal](https://github.com/HimaniJindal)
+
+#### Name: Eddie Fisher
+- Place: South Coast, UK
+- Bio: Fullstack Developer
+- GitHub: [frogo123](https://github.com/frogo123)
+
+#### Name: Laura Christensen
+- Place: Columbia, Missouri
+- Bio: Web Applications Programmer
+- GitHub: [laurachristensen1214](https://github.com/laurachristensen1214)
+
 #### Name: fawad khan
 
 - Place: Rawalpindi, Pakistan
@@ -412,19 +456,34 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
+ 
+ #### Name: Ayush Ranjan
+
+- Place: Jharkhand, India
+- Bio: Computer Science Student
+- GitHub: [azus2000](https://github.com/azus2000)
+
+#### Name: Diya Acharya
+- Place: Mysuru, Karnataka, India
+- Bio: coder IT STUDENT
+- GitHub: [diyaacharya](https://github.com/diyaacharya)
+
+
+#### Name: Parjanya HK
+- Place: Mysore, Karnataka, India
+- Bio: Microsoft Technology Associate
+- GitHub: [parjanyahk](https://GitHub.com/parjanyahk)
 
 #### Name: Vivek
 
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
-<<<<<<< Updated upstream
- 
+
  #### Name: Rohit
 - Place: Kanpur, U.P, India
 - Bio: Student
 - GitHub: [rohit57382](https://github.com/rohit57382)
-
 
 #### Name: Abhishek Sharma
 
@@ -437,15 +496,65 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: I'm iOS Developer
  - GitHub: [ELezov](https://github.com/ELezov)
 
-﻿#### Name: Rizky Ferdi Nugraha
+#### Name: ARBAZ ALAM
+- Place: New Delhi, Delhi, India
+- Bio: Student
+- GitHub: [arbazalam01](https://github.com/arbazalam01)
+
+#### Name: Rizky Ferdi Nugraha
 
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
-=======
 
 #### Name: Kjell Andre
 
  - Place: Norway
  - Bio: Student and hobby coder
  - GitHub: [KJ-coder](https://github.com/KJ-coder)
+
+#### Name: Ankita Mali
+
+- Place: ahmedabad,gujrat
+- Bio: Student
+- GitHub: [ankita319](https://github.com/ankita319)
+
+ #### Name: Rajesh Kumar
+ 
+- Place: Delhi, India
+- Bio: B.Tech Student, Interested in web devlopment 
+- GitHub: [Rajesh Kumar](https://github.com/Raj77230)
+
+#### Name: Pankaj Mali
+ - Place: Ahmedabad, India.
+ - Bio: student
+ - GitHub: [pankaj812](https://github.com/pankaj812)
+
+#### Name: Shubham Sharma
+ - Place: Shimla, India
+ - Bio: I'm web Developer
+ - GitHub: [HeisenBug-07](https://github.com/HeisenBug-07)
+
+#### Name: Vicky Raghuwanshi 
+
+- Place: Indore,Madhya Pradesh,India
+- Bio: College Student
+- Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
+
+#### Name: Athul John
+
+- Place: Kerala,India
+- Bio: College Student
+- Github: [AthulJohn](https://github.com/AthulJohn)
+
+#### Name: Abhishek Kumar Shukla
+
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: College Student
+- Github: [Abhishekalbert](https://github.com/abhishekalbert)
+
+#### Name: Emily Basile
+
+- Place: Dallas, Texas, United States of America
+- Bio: Accounting Student
+- GitHub: [kree666](https://github.com/kree666)
