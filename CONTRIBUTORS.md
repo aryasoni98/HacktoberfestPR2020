@@ -1,4 +1,4 @@
-﻿#### Name: Arya Soni
+#### Name: Arya Soni
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
@@ -400,3 +400,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+ 
+#### Name: Avgoustinos
+
+ - Place: Athens, Greece
+ - Bio: Student
+ - GitHub: [avouros](https://github.com/avouros)
