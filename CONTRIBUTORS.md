@@ -623,3 +623,10 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Dallas, Texas, United States of America
 - Bio: Accounting Student
 - GitHub: [kree666](https://github.com/kree666)
+
+#### Name: Sanidhya Breja
+
+- Place: New Delhi, India
+- Bio: B.Tech Student
+- GitHub: [SanidhyaBreja](https://github.com/SanidhyaBreja)
+
