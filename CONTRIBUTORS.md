@@ -629,3 +629,10 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Jaipur, India
 - Bio: B.Tech Student(Computer Science)
 - GitHub: [Anjali Jain](https://github.com/anjalij10) 
+
+#### Name: Sanidhya Breja
+
+- Place: New Delhi, India
+- Bio: B.Tech Student
+- GitHub: [SanidhyaBreja](https://github.com/SanidhyaBreja)
+
