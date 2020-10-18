@@ -14,7 +14,7 @@ Programming,Sports
 
 ##Projects
 COVID-19 Detection using X-Ray datasets using PyToch
-##Profile Link
+##Profile Link:
 
 https://github.com/Sagnik220
 
