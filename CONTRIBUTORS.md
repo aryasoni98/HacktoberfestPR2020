@@ -535,6 +535,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 
+#### Name: Athul John
+
+- Place: Kerala,India
+- Bio: College Student
+- Github: [AthulJohn](https://github.com/AthulJohn)
+
 #### Name: Abhishek Kumar Shukla
 
 - Place: Allahabad, Uttar Pradesh, India
