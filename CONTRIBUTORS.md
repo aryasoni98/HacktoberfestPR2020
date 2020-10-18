@@ -588,11 +588,6 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 
-#### Name: Sejal Rathore
-- Place: Jodhpur, Rajasthan, India
-- Bio: B.tech Student, Intrested in competitive Programming 
-- GitHub: [Sejal_1126](https://github.com/sejal1126)
-
 #### Name: Athira Kunjumon 
 
 - Place: Kerala,India
@@ -629,14 +624,14 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Accounting Student
 - GitHub: [kree666](https://github.com/kree666)
 
-#### Name: Anjali Jain
-
-- Place: Jaipur, India
-- Bio: B.Tech Student(Computer Science)
-- GitHub: [Anjali Jain](https://github.com/anjalij10) 
-
 #### Name: Sanidhya Breja
 
 - Place: New Delhi, India
 - Bio: B.Tech Student
 - GitHub: [SanidhyaBreja](https://github.com/SanidhyaBreja)
+
+#### Name: Alexander
+
+- Place: Rio de Janeiro, Brazil
+- Bio: Front-end Developer
+- GitHub: [Alexander](https://github.com/ialexanderbrito)
