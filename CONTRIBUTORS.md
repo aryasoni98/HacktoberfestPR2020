@@ -529,6 +529,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 
+#### Name: Abhishek Kumar Shukla
+
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: College Student
+- Github: [Abhishekalbert](https://github.com/abhishekalbert)
+
 #### Name: Emily Basile
 
 - Place: Dallas, Texas, United States of America
