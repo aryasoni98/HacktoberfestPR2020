@@ -581,6 +581,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 
+#### Name:Sagnik Mukherjee
+
+- Place: Kolkata,West Bengal,India
+- Bio: College Student and Machine Learning Enthusiast
+- Github: [Sagnik220](https://github.com/Sagnik220)
+
 #### Name: Santhosh Kumar Rajagiri 
 
 - Place: Visakhapatnam,Andhra Pradesh,India
