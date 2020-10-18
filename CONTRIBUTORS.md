@@ -1,3 +1,9 @@
+#### Name: Nanda Sai Kishor
+
+- Place: Telangana, India
+- Bio: B.Tech Student, Web Developer
+- GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
+ 
 #### Name: Arya Soni
 
 - Place: Delhi, India
