@@ -479,6 +479,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
+
+#### Name: Bryan Culver
+
+- Place: Honolulu, HI, USA
+- Bio: ASU graduate, Amature Developer [BuildBryan.com](http://www.buildbryan.com)
+- GitHub: [Bryan Culver](https://github.com/Bryan-Culver) 
  
  #### Name: Ayush Ranjan
 
