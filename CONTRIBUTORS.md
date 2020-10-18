@@ -569,6 +569,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 
+#### Name: Santhosh Kumar Rajagiri 
+
+- Place: Visakhapatnam,Andhra Pradesh,India
+- Bio: PHP Developer
+- Github: [Santhu342](https://github.com/santhu342)
+
 #### Name: Athul John
 
 - Place: Kerala,India
