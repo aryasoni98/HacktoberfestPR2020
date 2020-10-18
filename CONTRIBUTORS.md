@@ -507,6 +507,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
 
+#### Name: Kjell Andre
+
+ - Place: Norway
+ - Bio: Student and hobby coder
+ - GitHub: [KJ-coder](https://github.com/KJ-coder)
+
 #### Name: Ankita Mali
 
 - Place: ahmedabad,gujrat
