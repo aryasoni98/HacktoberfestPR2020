@@ -1,3 +1,9 @@
+#### Name: Arya Soni
+
+- Place: Delhi, India
+- Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
+- GitHub: [Arya Soni](https://github.com/aryasoni98) 
+
 #### Name: Anjali Singh
 
 - Place: Ahmedabad, India
@@ -10,11 +16,6 @@
 - Bio: B.Tech Student, Web Developer
 - GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
  
-#### Name: Arya Soni
-
-- Place: Delhi, India
-- Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
-- GitHub: [Arya Soni](https://github.com/aryasoni98) 
 
 #### Name: Rahul Roy
 - Place: Gorakhpur, Uttar Pradesh, India
