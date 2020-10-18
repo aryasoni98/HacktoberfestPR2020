@@ -1,3 +1,9 @@
+#### Name: Nanda Sai Kishor
+
+- Place: Telangana, India
+- Bio: B.Tech Student, Web Developer
+- GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
+ 
 #### Name: Arya Soni
 
 - Place: Delhi, India
@@ -534,3 +540,15 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Kerala,India
 - Bio: College Student
 - Github: [AthulJohn](https://github.com/AthulJohn)
+
+#### Name: Abhishek Kumar Shukla
+
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: College Student
+- Github: [Abhishekalbert](https://github.com/abhishekalbert)
+
+#### Name: Emily Basile
+
+- Place: Dallas, Texas, United States of America
+- Bio: Accounting Student
+- GitHub: [kree666](https://github.com/kree666)
