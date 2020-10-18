@@ -1,0 +1,34 @@
+
+
+#include <iostream>
+using namespace std;
+class class1
+{
+private:
+int num1;
+// friend class declaration
+friend class class2;
+public:
+// constructor to initialize num1 to 12
+class1() : num1(42) {}
+};
+class class2
+{
+private:
+int num2;
+public:
+// constructor to initialize numB to 1
+class2() : num2(8) {}
+// member function to add num1 from ClassA and num2 from ClassB
+int add()
+{
+class1 a;
+return a.num1 + num2;
+}
+};
+int main()
+{
+class2 b;
+cout << "Sum: " << b.add();
+return 0;
+}
