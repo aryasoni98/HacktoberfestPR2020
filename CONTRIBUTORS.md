@@ -528,3 +528,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Indore,Madhya Pradesh,India
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
+
+#### Name: Sejal Rathore
+- Place: Jodhpur, Rajasthan, India
+- Bio: B.tech Student, Intrested in competitive Programming
+- GitHub: [Sejal_1126](https://github.com/sejal1126)
