@@ -547,6 +547,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
 
+ #### Name: Shubhang Gupta
+ 
+- Place: New Delhi, India
+- Bio: BSc(Hons.) CS Student
+- GitHub: [Shubhang Gupta](https://github.com/jarvis-1805)
+
 #### Name: Kjell Andre
 
  - Place: Norway
