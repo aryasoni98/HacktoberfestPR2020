@@ -630,6 +630,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Accounting Student
 - GitHub: [kree666](https://github.com/kree666)
 
+#### Name: Wantana Vera
+
+- Place: Bangkok, Thailand
+- Bio: C# Developer
+- GitHub: [Manymoji](https://github.com/manymoji)
+=======
 #### Name: Sanidhya Breja
 
 - Place: New Delhi, India
@@ -1676,7 +1682,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Dallas, Texas, United States of America
 - Bio: Accounting Student
 - GitHub: [kree666](https://github.com/kree666)
-=======
+
 #### Name: Arya Soni
 
 - Place: Delhi, India
