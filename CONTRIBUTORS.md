@@ -1,3 +1,15 @@
+#### Name: Anjali Singh
+
+- Place: Ahmedabad, India
+- Bio: B.Tech Student
+- GitHub: [Anjali Singh](https://github.com/anjali-coder)
+
+#### Name: Nanda Sai Kishor
+
+- Place: Telangana, India
+- Bio: B.Tech Student, Web Developer
+- GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
+ 
 #### Name: Arya Soni
 
 - Place: Delhi, India
@@ -39,6 +51,12 @@
 - Bio: Self-Taught Developer
 - GitHub: [sparkstark03](https://github.com/sparkstark03)
 
+#### Name: Rishikesh Raj
+
+- Place: Jaipur, Rajasthan, India
+- Bio: B.Tech(CSE), AIET
+- GitHub: [Rishikeshrajrxl](https://github.com/rishikeshrajrxl)
+
 #### Name: Prateeksha Sharma
 
 - Place: Alwar, Rajasthan ,India
@@ -52,6 +70,7 @@
 - GitHub: [ayush179](https://github.com/ayush179)
 
 ### Name: Geovany Mantilla
+
 -Place Cúcuta, colombia
 -Bio: Universidad Francisco de Paula santander
 GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
@@ -435,10 +454,16 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: A Student strugling to code
 - GitHub: [haqqiem](https://github.com/haqqiem)
 
-####  Nombre: Gregorio Perez
+#### Nombre: Gregorio Perez
+
 - Lugar: Cucuta, Norte de Santander, Colombia
- - Bio: Estudiante de Ingenieria de Sistemas
+- Bio: Estudiante de Ingenieria de Sistemas
 - GitHub: [GregorioPM] (https://github.com/GregorioPM)
+
+#### Nombre: Eduard Cantillo
+
+- Lugar: Cucuta, Norte de Santander, Colombia
+- Bio: Estudiante de ingenieria de sistemas
 
 ####  Nombre: Eduard Cantillo
 - Lugar: Cucuta, Norte de Santander, Colombia
@@ -447,9 +472,25 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 #### Name: Anisha Singh
 
+- Place: Secunderabad, Telangana, India
+- Bio: Learning to be a full stack developer and a novice competitive programmer
+- GitHub: [Anishahaha](https://github.com/Anishahaha)
+
+#### Name: Dweep Panchal
+
+- Place: Vadodara, Gujarat, India
+- Bio: A computer science student learning backend development.
+- GitHub: [dweep612](https://github.com/dweep612)
+
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
  - GitHub: [Anishahaha](https://github.com/Anishahaha)
+
+#### Name: Bryan Culver
+
+- Place: Honolulu, HI, USA
+- Bio: ASU graduate, Amature Developer [BuildBryan.com](http://www.buildbryan.com)
+- GitHub: [Bryan Culver](https://github.com/Bryan-Culver) 
  
  #### Name: Ayush Ranjan
 
@@ -473,6 +514,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
+ 
+ #### Name: Rohit Kumar
+- Place: Lucknow, U.P, India
+- Bio: Web developer, competitive programmer
+- GitHub: [RohitKumar-200](https://github.com/RohitKumar-200)
 
  #### Name: Rohit
 - Place: Kanpur, U.P, India
@@ -500,6 +546,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+#### Name: Kjell Andre
+
+ - Place: Norway
+ - Bio: Student and hobby coder
+ - GitHub: [KJ-coder](https://github.com/KJ-coder)
 
 #### Name: Ankita Mali
 
@@ -534,3 +586,33 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Kerala,India
 - Bio: College Student
 - Github: [athira-kunjumon](https://github.com/athirakvp)
+
+#### Name:Sagnik Mukherjee
+
+- Place: Kolkata,West Bengal,India
+- Bio: College Student and Machine Learning Enthusiast
+- Github: [Sagnik220](https://github.com/Sagnik220)
+
+#### Name: Santhosh Kumar Rajagiri 
+
+- Place: Visakhapatnam,Andhra Pradesh,India
+- Bio: PHP Developer
+- Github: [Santhu342](https://github.com/santhu342)
+
+#### Name: Athul John
+
+- Place: Kerala,India
+- Bio: College Student
+- Github: [AthulJohn](https://github.com/AthulJohn)
+
+#### Name: Abhishek Kumar Shukla
+
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: College Student
+- Github: [Abhishekalbert](https://github.com/abhishekalbert)
+
+#### Name: Emily Basile
+
+- Place: Dallas, Texas, United States of America
+- Bio: Accounting Student
+- GitHub: [kree666](https://github.com/kree666)
