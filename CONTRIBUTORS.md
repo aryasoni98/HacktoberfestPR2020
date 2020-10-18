@@ -2334,3 +2334,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: New Delhi, India
 - Bio: B.Tech Student
 - GitHub: [SanidhyaBreja](https://github.com/SanidhyaBreja)
+
+#### Name: Munish Soni
+
+- Place: Durg, Chhattisgarh, India
+- Bio: B.Tech Student
+- GitHub: [Munish-Soni](https://github.com/Munish-Soni)
