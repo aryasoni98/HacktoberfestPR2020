@@ -15,6 +15,12 @@
 - Place: Telangana, India
 - Bio: B.Tech Student, Web Developer
 - GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
+
+#### Name: Daniel Albarracin
+
+- Place: Seville, Spain
+- Bio: Web develoment
+- GitHub: [Youshiro](https://github.com/Youshiro)
  
 
 #### Name: Rahul Roy
