@@ -2,7 +2,7 @@
 
 - Place: Delhi, India
 - Bio: B.Tech Student, Co-Founder [OSC](https://opensourcecode.tech/)
-- GitHub: [Arya Soni](https://github.com/aryasoni98) 
+- GitHub: [Arya Soni](https://github.com/aryasoni98)
 
 #### Name: Anjali Singh
 
@@ -14,20 +14,20 @@
 
 - Place: Telangana, India
 - Bio: B.Tech Student, Web Developer
-- GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor) 
- 
+- GitHub: [Nanda Sai Kishor](https://github.com/Nandasaikishor)
+
 
 #### Name: Rahul Roy
 - Place: Gorakhpur, Uttar Pradesh, India
-- Bio: B.Tech CSE Student, Kalinga Institute of Industrial Technology 
+- Bio: B.Tech CSE Student, Kalinga Institute of Industrial Technology
 - GitHub: [Roy0Anonymous](https://github.com/Roy0Anonymous)
- 
+
  #### Name: Hemant
 
 - place: Hisar, India
 - Bio: B.Tech Student, Flutter Developer
 -Github: [Hemant72](https://github.com/Hemant72)
- 
+
 #### Name: Souvik Banerjee
 
 - Place: Kolkata, West Bengal, India
@@ -39,6 +39,12 @@
 - Place: Bharatpur, India
 - Bio: B.Tech Student
 - GitHub: [iamrk09](https://github.com/iamrk09)
+
+#### Name: Anshika Bhatt
+
+- Place: India
+- Bio: Student
+- GitHub: [anshika0207](https://github.com//anshika0207)
 
 #### Name: Ankur Kesharwani
 
@@ -491,8 +497,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 - Place: Honolulu, HI, USA
 - Bio: ASU graduate, Amature Developer [BuildBryan.com](http://www.buildbryan.com)
-- GitHub: [Bryan Culver](https://github.com/Bryan-Culver) 
- 
+- GitHub: [Bryan Culver](https://github.com/Bryan-Culver)
+
  #### Name: Ayush Ranjan
 
 - Place: Jharkhand, India
@@ -515,7 +521,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Place: Kurukshetra, Haryana, India
  - Bio: Student and system enthusiast
  - GitHub: [vivek-alt](https://github.com/vivek-alt)
- 
+
  #### Name: Rohit Kumar
 - Place: Lucknow, U.P, India
 - Bio: Web developer, competitive programmer
@@ -549,7 +555,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
 
  #### Name: Shubhang Gupta
- 
+
 - Place: New Delhi, India
 - Bio: BSc(Hons.) CS Student
 - GitHub: [Shubhang Gupta](https://github.com/jarvis-1805)
@@ -567,9 +573,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - GitHub: [ankita319](https://github.com/ankita319)
 
  #### Name: Rajesh Kumar
- 
+
 - Place: Delhi, India
-- Bio: B.Tech Student, Interested in web devlopment 
+- Bio: B.Tech Student, Interested in web devlopment
 - GitHub: [Rajesh Kumar](https://github.com/Raj77230)
 
 #### Name: Pankaj Mali
@@ -582,13 +588,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
  - Bio: I'm web Developer
  - GitHub: [HeisenBug-07](https://github.com/HeisenBug-07)
 
-#### Name: Vicky Raghuwanshi 
+#### Name: Vicky Raghuwanshi
 
 - Place: Indore,Madhya Pradesh,India
 - Bio: College Student
 - Github: [vicky_raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 
-#### Name: Athira Kunjumon 
+#### Name: Athira Kunjumon
 
 - Place: Kerala,India
 - Bio: College Student
@@ -600,7 +606,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: College Student and Machine Learning Enthusiast
 - Github: [Sagnik220](https://github.com/Sagnik220)
 
-#### Name: Santhosh Kumar Rajagiri 
+#### Name: Santhosh Kumar Rajagiri
 
 - Place: Visakhapatnam,Andhra Pradesh,India
 - Bio: PHP Developer
