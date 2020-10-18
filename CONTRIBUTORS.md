@@ -58,6 +58,7 @@
 - GitHub: [ayush179](https://github.com/ayush179)
 
 ### Name: Geovany Mantilla
+
 -Place Cúcuta, colombia
 -Bio: Universidad Francisco de Paula santander
 GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
@@ -441,10 +442,16 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: A Student strugling to code
 - GitHub: [haqqiem](https://github.com/haqqiem)
 
-####  Nombre: Gregorio Perez
+#### Nombre: Gregorio Perez
+
 - Lugar: Cucuta, Norte de Santander, Colombia
- - Bio: Estudiante de Ingenieria de Sistemas
+- Bio: Estudiante de Ingenieria de Sistemas
 - GitHub: [GregorioPM] (https://github.com/GregorioPM)
+
+#### Nombre: Eduard Cantillo
+
+- Lugar: Cucuta, Norte de Santander, Colombia
+- Bio: Estudiante de ingenieria de sistemas
 
 ####  Nombre: Eduard Cantillo
 - Lugar: Cucuta, Norte de Santander, Colombia
@@ -452,6 +459,16 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - GitHub: [eduardcantillo] (https://github.com/eduardcantillo)
 
 #### Name: Anisha Singh
+
+- Place: Secunderabad, Telangana, India
+- Bio: Learning to be a full stack developer and a novice competitive programmer
+- GitHub: [Anishahaha](https://github.com/Anishahaha)
+
+#### Name: Dweep Panchal
+
+- Place: Vadodara, Gujarat, India
+- Bio: A computer science student learning backend development.
+- GitHub: [dweep612](https://github.com/dweep612)
 
  - Place: Secunderabad, Telangana, India
  - Bio: Learning to be a full stack developer and a novice competitive programmer
