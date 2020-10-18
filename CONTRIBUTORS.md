@@ -531,5 +531,5 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 #### Name: Sejal Rathore
 - Place: Jodhpur, Rajasthan, India
-- Bio: B.tech Student, Intrested in competitive Programming
+- Bio: B.tech Student, Intrested in competitive Programming 
 - GitHub: [Sejal_1126](https://github.com/sejal1126)
