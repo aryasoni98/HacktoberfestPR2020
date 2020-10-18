@@ -624,6 +624,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Accounting Student
 - GitHub: [kree666](https://github.com/kree666)
 
+#### Name: Anjali Jain
+
+- Place: Jaipur, India
+- Bio: B.Tech Student(Computer Science)
+- GitHub: [Anjali Jain](https://github.com/anjalij10) 
+
 #### Name: Sanidhya Breja
 
 - Place: New Delhi, India
