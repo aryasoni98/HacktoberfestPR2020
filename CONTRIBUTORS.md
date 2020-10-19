@@ -2345,3 +2345,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Durg, Chhattisgarh, India
 - Bio: B.Tech Student
 - GitHub: [Munish-Soni](https://github.com/Munish-Soni)
+
+#### Name: Pranav Pujara
+
+- Place: Ahmedabad, India
+- Bio: B.Tech Student
+- GitHub: [pranav4156](https://github.com/pranav4156)
