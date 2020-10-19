@@ -63,6 +63,12 @@
 - Bio: Self-Taught Developer
 - GitHub: [sparkstark03](https://github.com/sparkstark03)
 
+#### Name: Saanjh
+
+- Place: Maharashtra, India
+- Bio: B.E(CSE), vit
+- GitHub: [Rishikeshrajrxl](https://github.com/Saanjh10)
+
 #### Name: Rishikesh Raj
 
 - Place: Jaipur, Rajasthan, India
