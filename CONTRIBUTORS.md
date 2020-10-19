@@ -2345,3 +2345,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Durg, Chhattisgarh, India
 - Bio: B.Tech Student
 - GitHub: [Munish-Soni](https://github.com/Munish-Soni)
+
+#### Name: Nimesha Chathurangi
+
+- Place: Galle , Sri Lanka
+- Bio: Computer Science Student
+- GitHub: [Nimesha1996](https://github.com/Nimesha1996)
