@@ -67,7 +67,7 @@
 
 - Place: Maharashtra, India
 - Bio: B.E(CSE), vit
-- GitHub: [Rishikeshrajrxl](https://github.com/Saanjh10)
+- GitHub: [Saanjh10](https://github.com/Saanjh10)
 
 #### Name: Rishikesh Raj
 
