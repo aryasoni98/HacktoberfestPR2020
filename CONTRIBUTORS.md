@@ -2345,3 +2345,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Durg, Chhattisgarh, India
 - Bio: B.Tech Student
 - GitHub: [Munish-Soni](https://github.com/Munish-Soni)
+
+#### Name: Neeraj Mirji
+
+- Place:Belgaum, Karnataka, India
+- Bio: B.Tech Student
+- GitHub: [Neeraj-Mirji](https://github.com/Neeraj-Mirji)
