@@ -2345,3 +2345,10 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Durg, Chhattisgarh, India
 - Bio: B.Tech Student
 - GitHub: [Munish-Soni](https://github.com/Munish-Soni)
+
+
+#### Name: Ayush Soni
+- Place: Rawatbhata, Rajasthan, India
+- Bio: B.Tech Student
+-Github: [AyushSoni-git](https://github.com/AyushSoni-git)
+
