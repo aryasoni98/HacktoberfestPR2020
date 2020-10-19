@@ -2352,6 +2352,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: B.Tech Student
 - GitHub: [Munish-Soni](https://github.com/Munish-Soni)
 
+#### Name: Masood Ahmed
+
+- Place: Chennai, Tamil Nadu , India
+- Bio: B.E Computer Science Student
+- GitHub: [Masood Ahmed](https://github.com/masoodahme)
+
 #### Name: Ayush Soni
 - Place: Rawatbhata, Rajasthan, India
 - Bio: B.Tech Student
