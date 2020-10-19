@@ -63,6 +63,12 @@
 - Bio: Self-Taught Developer
 - GitHub: [sparkstark03](https://github.com/sparkstark03)
 
+#### Name: Saanjh
+
+- Place: Maharashtra, India
+- Bio: B.E(CSE), vit
+- GitHub: [Saanjh10](https://github.com/Saanjh10)
+
 #### Name: Rishikesh Raj
 
 - Place: Jaipur, Rajasthan, India
@@ -2346,9 +2352,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: B.Tech Student
 - GitHub: [Munish-Soni](https://github.com/Munish-Soni)
 
-
 #### Name: Ayush Soni
 - Place: Rawatbhata, Rajasthan, India
 - Bio: B.Tech Student
 -Github: [AyushSoni-git](https://github.com/AyushSoni-git)
 
+#### Name: Pranav Pujara
+
+- Place: Ahmedabad, India
+- Bio: B.Tech Student
+- GitHub: [pranav4156](https://github.com/pranav4156)
