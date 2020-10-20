@@ -2392,3 +2392,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Banglore, India
 - Bio: Mechanial Engineering Student (B.Tech.)
 - GitHub: [ARsh-ALgo](https://github.com/ARsh-ALgo)
+
+#### Name: Pulkit Malhotra
+
+- Place: New Delhi, India
+- Bio: Software Development
+- GitHub: [pulkit 1408](https://github.com/pulkit1408)
