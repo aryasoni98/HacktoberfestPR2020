@@ -2387,6 +2387,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: B.Tech Student
 - GitHub: [pranav4156](https://github.com/pranav4156)
 
+#### Name: Arsh Bhardwaj
+
+- Place: Banglore, India
+- Bio: Mechanial Engineering Student (B.Tech.)
+- GitHub: [ARsh-ALgo](https://github.com/ARsh-ALgo)
+
 #### Name: Pulkit Malhotra
 
 - Place: New Delhi, India
