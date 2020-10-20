@@ -2386,3 +2386,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Ahmedabad, India
 - Bio: B.Tech Student
 - GitHub: [pranav4156](https://github.com/pranav4156)
+
+#### Name: Pulkit Malhotra
+
+- Place: New Delhi, India
+- Bio: Software Development
+- GitHub: [pulkit 1408](https://github.com/pulkit1408)
