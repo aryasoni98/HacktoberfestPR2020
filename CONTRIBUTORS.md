@@ -1,3 +1,9 @@
+#### Name: Aanya Gupta
+
+- Place: Aligarh, India
+- Bio: B.Sc. Student
+- GitHub: [Aanya Gupta](https://github.com/freckles30)
+
 #### Name: Arya Soni
 
 - Place: Delhi, India
