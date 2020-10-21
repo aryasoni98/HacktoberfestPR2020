@@ -4,6 +4,12 @@
 - Bio: B.Sc. Student
 - GitHub: [Aanya Gupta](https://github.com/freckles30)
 
+#### Name: Jay Rawlani
+
+-Place: Arvi, India
+-Bio: Btech student
+-Github: [Jay Rawlani](https://github.com/JayRawlani)
+
 #### Name: Arya Soni
 
 - Place: Delhi, India
