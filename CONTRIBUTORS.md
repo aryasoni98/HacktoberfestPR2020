@@ -2404,3 +2404,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: New Delhi, India
 - Bio: Junior Data Associate
 - GitHub: [immessionate](https://github.com/immessionate)
+
+#### Name: Aman Singh
+
+- Place: Delhi, India
+- Bio: Engineering Student
+- Github: [aman-at-git](https://github.com/aman-at-git)
