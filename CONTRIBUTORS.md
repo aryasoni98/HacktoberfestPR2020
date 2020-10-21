@@ -2398,3 +2398,10 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: New Delhi, India
 - Bio: Software Development
 - GitHub: [pulkit 1408](https://github.com/pulkit1408)
+
+#### Name: Gaurav Chauhan
+
+- Place: New Delhi, India
+- Bio: web developer, BTech-CSE student
+- GitHub: [gauravchauhan2403](https://github.com/gauravchauhan2403)
+
