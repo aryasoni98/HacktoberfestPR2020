@@ -2410,3 +2410,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Delhi, India
 - Bio: Engineering Student
 - Github: [aman-at-git](https://github.com/aman-at-git)
+
+#### Name: Harsh
+- Place: Ahmedabad, India
+- Bio: B.Tech Student
+- GitHub: [harshjoshi1417](https://github.com/harshjoshi1417)
