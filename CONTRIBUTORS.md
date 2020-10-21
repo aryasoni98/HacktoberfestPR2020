@@ -1,3 +1,9 @@
+#### Name: epiphian
+
+- Place: Russia
+- Bio: ML explorer
+- GitHub: [epiphian](https://github.com/epiphian)
+
 #### Name: Aanya Gupta
 
 - Place: Aligarh, India
