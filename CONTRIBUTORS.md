@@ -2398,3 +2398,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: New Delhi, India
 - Bio: Software Development
 - GitHub: [pulkit 1408](https://github.com/pulkit1408)
+
+#### Name: Aman Singh
+
+- Place: Delhi, India
+- Bio: Engineering Student
+- Github: [aman-at-git](https://github.com/aman-at-git)
