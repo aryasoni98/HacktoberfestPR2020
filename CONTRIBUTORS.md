@@ -1,3 +1,15 @@
+#### Name: Dvir T.
+
+- Place: Tel-Aviv,Israel
+- Bio: B.Sc. Student
+- GitHub: [dt170](https://github.com/dt170)
+
+#### Name: epiphian
+
+- Place: Russia
+- Bio: ML explorer
+- GitHub: [epiphian](https://github.com/epiphian)
+
 #### Name: Aanya Gupta
 
 - Place: Aligarh, India
@@ -2416,3 +2428,14 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Surabaya, Indonesia
 - Bio: Informatics Student
 - Github: [husinassegaff](https://github.com/husinassegaff)
+
+#### Name: Harsh
+- Place: Ahmedabad, India
+- Bio: B.Tech Student
+- GitHub: [harshjoshi1417](https://github.com/harshjoshi1417)
+
+#### Name: Abhinav Sharma
+
+- Place: Delhi, India
+- Bio: Engineering Student
+- Github: [abhi9249](https://github.com/abhi9249)
