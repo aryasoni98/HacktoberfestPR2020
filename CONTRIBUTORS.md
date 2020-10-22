@@ -4,6 +4,12 @@
 - Bio: B.Sc. Student
 - GitHub: [dt170](https://github.com/dt170)
 
+#### Name: epiphian
+
+- Place: Russia
+- Bio: ML explorer
+- GitHub: [epiphian](https://github.com/epiphian)
+
 #### Name: Aanya Gupta
 
 - Place: Aligarh, India
@@ -2416,3 +2422,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Delhi, India
 - Bio: Engineering Student
 - Github: [aman-at-git](https://github.com/aman-at-git)
+
+#### Name: Abhinav Sharma
+
+- Place: Delhi, India
+- Bio: Engineering Student
+- Github: [abhi9249](https://github.com/abhi9249)
