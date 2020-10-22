@@ -2423,6 +2423,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Engineering Student
 - Github: [aman-at-git](https://github.com/aman-at-git)
 
+#### Name: Husin Assegaff
+
+- Place: Surabaya, Indonesia
+- Bio: Informatics Student
+- Github: [husinassegaff](https://github.com/husinassegaff)
+
 #### Name: Harsh
 - Place: Ahmedabad, India
 - Bio: B.Tech Student
