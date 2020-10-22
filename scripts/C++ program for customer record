@@ -1,0 +1,47 @@
+#include <iostream>
+using namespace std;
+
+class coustmer
+{
+private:
+int quantity, price, total;
+char name[100], product[100];
+public:
+ void getinfo();
+void display();
+};
+
+void coustmer::getinfo()
+{
+cout<<"Enter the name of coustmer :- ";
+cin>>name;
+cout<<"Enter the name of product :- ";
+cin>>product;
+cout<<"Enter the price of product :- ";
+cin>>price;
+cout<<"Enter the quantity of product :- ";
+cin>>quantity;
+}
+void coustmer::display()
+{
+cout<<name<<"\t"<<product<<"\t"<<price<<"\t"<<quantity<<"\t";
+total= price*quantity;
+cout<<total<<"\t"<<endl;
+}
+
+int main()
+{
+coustmer c[10];
+int i, n;
+cout<<"Enter the numbert of coustmer :- ";
+cin>>n;
+for(i=0; i<n; i++)
+{
+c[i].getinfo();
+}
+cout<<"Name"<<"\t"<<"Product"<<"\t"<<"Price"<<"\t"<<"Quantity"<<"\t"<<"Total"<<"\t"<<endl;
+for(i=0; i<n; i++)
+{
+c[i].display();
+}
+}
