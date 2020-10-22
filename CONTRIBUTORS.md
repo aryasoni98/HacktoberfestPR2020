@@ -50,6 +50,11 @@
 - Bio: B.Tech CSE Student, Kalinga Institute of Industrial Technology
 - GitHub: [Roy0Anonymous](https://github.com/Roy0Anonymous)
 
+#### Name: Berjin S
+- Place: Tamil Nadu, India
+- Bio: BE Computer Science Student
+- GitHub: [Berjin](https://github.com/Berjin)
+
  #### Name: Hemant
 
 - place: Hisar, India
