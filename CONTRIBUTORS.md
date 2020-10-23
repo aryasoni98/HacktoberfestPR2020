@@ -448,3 +448,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+
+#### Name: Izis Sousa
+ - Place: Goiânia, Brazil
+ - Bio: I'm student
+ - GitHub: [ziiharuno](https://github.com/ziiharuno)
