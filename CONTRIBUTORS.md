@@ -2454,3 +2454,14 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - place: Kathmandu,Nepal
 -Bio: Computer Science Student
 -Github: [RachitaBas] (https://github.com/RachitaBas)
+
+#### Name: Rida Ayaz
+- Place: Islamabad, Pakistan
+- Bio: BSSE student
+- GitHub: [ridaayaz](https://github.com/ridaayaz)
+
+#### Name: Himanshu Agarwal
+
+- Place: Agra, India
+- Bio: Engineering Student
+- Github: [himanshuagrl](https://github.com/himanshuagrl)
