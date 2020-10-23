@@ -2449,3 +2449,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Delhi, India
 - Bio: Engineering Student
 - Github: [abhi9249](https://github.com/abhi9249)
+
+#### Name: awesomesuzjon(Sujan Bohara)
+
+- Place: Kathmandu, Nepal
+- Bio: Bsc.CSIT  Student
+- Github: [awesomesuzjon](https://github.com/awesomesuzjon)
