@@ -2450,6 +2450,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Engineering Student
 - Github: [abhi9249](https://github.com/abhi9249)
 
+#### Name: Rida Ayaz
+- Place: Islamabad, Pakistan
+- Bio: BSSE student
+- GitHub: [ridaayaz](https://github.com/ridaayaz)
+
 #### Name: Himanshu Agarwal
 
 - Place: Agra, India
