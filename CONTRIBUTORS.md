@@ -511,6 +511,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Lugar: Cucuta, Norte de Santander, Colombia
 - Bio: Estudiante de ingenieria de sistemas
 
+####  Name : Prajakta Jagdish Badgujar
+- Place : Dhule, Maharashtra, India
+ - Bio: keep hustling
+- GitHub:[Prajakta-collab] https://github.com/Prajakta-collab
+
 ####  Nombre: Eduard Cantillo
 - Lugar: Cucuta, Norte de Santander, Colombia
  - Bio: Estudiante de ingenieria de sistemas
