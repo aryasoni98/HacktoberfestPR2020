@@ -2450,6 +2450,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Engineering Student
 - Github: [abhi9249](https://github.com/abhi9249)
 
+#### Name: Rachita Basnet
+- place: Kathmandu,Nepal
+-Bio: Computer Science Student
+-Github: [RachitaBas] (https://github.com/RachitaBas)
+
 #### Name: Rida Ayaz
 - Place: Islamabad, Pakistan
 - Bio: BSSE student
