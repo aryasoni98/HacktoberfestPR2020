@@ -511,6 +511,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Lugar: Cucuta, Norte de Santander, Colombia
 - Bio: Estudiante de ingenieria de sistemas
 
+####  Name : Prajakta Jagdish Badgujar
+- Place : Dhule, Maharashtra, India
+ - Bio: keep hustling
+- GitHub:[Prajakta-collab] https://github.com/Prajakta-collab
+
 ####  Nombre: Eduard Cantillo
 - Lugar: Cucuta, Norte de Santander, Colombia
  - Bio: Estudiante de ingenieria de sistemas
@@ -2455,3 +2460,25 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Kathmandu, Nepal
 - Bio: Bsc.CSIT  Student
 - Github: [awesomesuzjon](https://github.com/awesomesuzjon)
+
+#### Name: Rajesh Pudasaini
+
+- Place: Kathmandu, Bagmati, Nepal
+- Bio: Computer Science student, who loves to work in Python
+- Github: [razyesh](https://github.com/razyesh)
+
+#### Name: Rachita Basnet
+- place: Kathmandu,Nepal
+-Bio: Computer Science Student
+-Github: [RachitaBas] (https://github.com/RachitaBas)
+
+#### Name: Rida Ayaz
+- Place: Islamabad, Pakistan
+- Bio: BSSE student
+- GitHub: [ridaayaz](https://github.com/ridaayaz)
+
+#### Name: Himanshu Agarwal
+
+- Place: Agra, India
+- Bio: Engineering Student
+- Github: [himanshuagrl](https://github.com/himanshuagrl)
