@@ -2449,3 +2449,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Delhi, India
 - Bio: Engineering Student
 - Github: [abhi9249](https://github.com/abhi9249)
+
+#### Name: Rajesh Pudasaini
+
+- Place: Kathmandu, Bagmati, Nepal
+- Bio: Computer Science student, who loves to work in Python
+- Github: [razyesh](https://github.com/razyesh)
