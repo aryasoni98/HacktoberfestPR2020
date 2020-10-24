@@ -2519,3 +2519,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Ananindeua, Pará, Brazil
 - Bio: Systems Analysis and Development Student
 - Github: [Thiago Silva](https://github.com/pgThiago)
+
+#### Name: Carlos Ruiz
+- Place: Brabant Wallon, Belgium
+- Bio: CS Student
+- GitHub: [D34DPlayer](https://github.com/D34DPlayer)
