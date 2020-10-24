@@ -2489,6 +2489,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: B.E CSE Student
 - Github: [Hari Prasad](https://github.com/hariprasad1003)
 
+#### Name: Moh Yusril Firmansyah
+
+- Place: Malang, Indonesia
+- Bio: Informatics Engineering Education Students
+- Github: [Moh Yusril Firmansyah](https://github.com/yusril23)
+
 #### Name: Thiago Silva
 
 - Place: Ananindeua, Pará, Brazil
