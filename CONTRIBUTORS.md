@@ -2519,3 +2519,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Ananindeua, Pará, Brazil
 - Bio: Systems Analysis and Development Student
 - Github: [Thiago Silva](https://github.com/pgThiago)
+
+#### Name: Sujay Gad
+- Place: Goa, India
+- Bio: BTECH CSE student
+- Github: [Sujay Gad](https://github.com/Sujay2611)
