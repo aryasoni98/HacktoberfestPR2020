@@ -1,3 +1,10 @@
+#### Name: Tejas Nopany
+
+- Place: Bangalore, India
+- Bio: BCA Student
+- GitHub: [tejasnopany](https://github.com/tejasnopany)
+
+
 #### Name: Dvir T.
 
 - Place: Tel-Aviv,Israel
@@ -2494,6 +2501,7 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Tamilnadu, India
 - Bio: B.E CSE Student
 - Github: [Hari Prasad](https://github.com/hariprasad1003)
+
 
 #### Name: Moh Yusril Firmansyah
 
