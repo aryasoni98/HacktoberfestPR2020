@@ -1,3 +1,10 @@
+#### Name: Tejas Nopany
+
+- Place: Bangalore, India
+- Bio: BCA Student
+- GitHub: [tejasnopany](https://github.com/tejasnopany)
+
+
 #### Name: Dvir T.
 
 - Place: Tel-Aviv,Israel
