@@ -2488,3 +2488,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Tamilnadu, India
 - Bio: B.E CSE Student
 - Github: [Hari Prasad](https://github.com/hariprasad1003)
+
+#### Name: Thiago Silva
+
+- Place: Ananindeua, Pará, Brazil
+- Bio: Systems Analysis and Development Student
+- Github: [Thiago Silva](https://github.com/pgThiago)
