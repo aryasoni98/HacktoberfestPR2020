@@ -2519,3 +2519,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Ananindeua, Pará, Brazil
 - Bio: Systems Analysis and Development Student
 - Github: [Thiago Silva](https://github.com/pgThiago)
+
+#### Name: Bilal Ahmad
+
+- Place: Punjab, India
+- Bio: BCA student
+- GitHub: [mis-coder](https://github.com/mis-coder)
