@@ -2494,3 +2494,9 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Malang, Indonesia
 - Bio: Informatics Engineering Education Students
 - Github: [Moh Yusril Firmansyah](https://github.com/yusril23)
+
+#### Name: Thiago Silva
+
+- Place: Ananindeua, Pará, Brazil
+- Bio: Systems Analysis and Development Student
+- Github: [Thiago Silva](https://github.com/pgThiago)
