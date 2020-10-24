@@ -1,3 +1,10 @@
+#### Name: Tejas Nopany
+
+- Place: Bangalore, India
+- Bio: BCA Student
+- GitHub: [tejasnopany](https://github.com/tejasnopany)
+
+
 #### Name: Dvir T.
 
 - Place: Tel-Aviv,Israel
@@ -2276,6 +2283,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
 
+
+#### Name: Izis Sousa
+ - Place: Goiânia, Brazil
+ - Bio: I'm student
+ - GitHub: [ziiharuno](https://github.com/ziiharuno)
+
  #### Name: Shubhang Gupta
  
 - Place: New Delhi, India
@@ -2494,3 +2507,15 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place : Galle, Sri lanka
 - Bio : student
 - Github :[anjila1999](https://github.com/anjila1999)
+
+#### Name: Moh Yusril Firmansyah
+
+- Place: Malang, Indonesia
+- Bio: Informatics Engineering Education Students
+- Github: [Moh Yusril Firmansyah](https://github.com/yusril23)
+
+#### Name: Thiago Silva
+
+- Place: Ananindeua, Pará, Brazil
+- Bio: Systems Analysis and Development Student
+- Github: [Thiago Silva](https://github.com/pgThiago)
