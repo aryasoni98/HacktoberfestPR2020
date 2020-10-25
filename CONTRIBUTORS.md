@@ -1,3 +1,10 @@
+#### Name: Samrat Khan
+
+- Place: Kolkata, India
+- Bio: App Developer
+- GitHub: [Samrat-Khan](https://github.com/Samrat-Khan)
+
+
 #### Name: Tejas Nopany
 
 - Place: Bangalore, India
@@ -2439,6 +2446,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Software Development
 - GitHub: [pulkit 1408](https://github.com/pulkit1408)
 
+#### Name: Gaurav Chauhan
+
+- Place: New Delhi, India
+- Bio: web developer, BTech-CSE student
+- GitHub: [gauravchauhan2403](https://github.com/gauravchauhan2403)
+
+
 #### Name: Immessionate
 
 - Place: New Delhi, India
@@ -2525,3 +2539,14 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Punjab, India
 - Bio: BCA student
 - GitHub: [mis-coder](https://github.com/mis-coder)
+
+#### Name: Carlos Ruiz
+- Place: Brabant Wallon, Belgium
+- Bio: CS Student
+- GitHub: [D34DPlayer](https://github.com/D34DPlayer)
+
+#### Name: Sachin Biradar
+
+-Place: Pune , India
+-Bio: BE student 
+-Github: [Sachin Biradar](https://github.com/sachinbir)
