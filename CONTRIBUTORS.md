@@ -1,3 +1,10 @@
+#### Name: Samrat Khan
+
+- Place: Kolkata, India
+- Bio: App Developer
+- GitHub: [Samrat-Khan](https://github.com/Samrat-Khan)
+
+
 #### Name: Tejas Nopany
 
 - Place: Bangalore, India
