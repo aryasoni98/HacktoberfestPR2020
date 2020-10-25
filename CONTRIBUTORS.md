@@ -1,8 +1,32 @@
+#### Name: Tejas Nopany
+
+- Place: Bangalore, India
+- Bio: BCA Student
+- GitHub: [tejasnopany](https://github.com/tejasnopany)
+
+
+#### Name: Dvir T.
+
+- Place: Tel-Aviv,Israel
+- Bio: B.Sc. Student
+- GitHub: [dt170](https://github.com/dt170)
+
+#### Name: epiphian
+
+- Place: Russia
+- Bio: ML explorer
+- GitHub: [epiphian](https://github.com/epiphian)
+
 #### Name: Aanya Gupta
 
 - Place: Aligarh, India
 - Bio: B.Sc. Student
 - GitHub: [Aanya Gupta](https://github.com/freckles30)
+
+#### Name: Bilal Ahmad
+- Place: Lahore, Pakistan
+- Bio: BSCS student
+- GitHub: [Bilal](https://github.com/half-developer)
 
 #### Name: Arya Soni
 
@@ -32,6 +56,11 @@
 - Place: Gorakhpur, Uttar Pradesh, India
 - Bio: B.Tech CSE Student, Kalinga Institute of Industrial Technology
 - GitHub: [Roy0Anonymous](https://github.com/Roy0Anonymous)
+
+#### Name: Berjin S
+- Place: Tamil Nadu, India
+- Bio: BE Computer Science Student
+- GitHub: [Berjin](https://github.com/Berjin)
 
  #### Name: Hemant
 
@@ -488,6 +517,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 
 - Lugar: Cucuta, Norte de Santander, Colombia
 - Bio: Estudiante de ingenieria de sistemas
+
+####  Name : Prajakta Jagdish Badgujar
+- Place : Dhule, Maharashtra, India
+ - Bio: keep hustling
+- GitHub:[Prajakta-collab] https://github.com/Prajakta-collab
 
 ####  Nombre: Eduard Cantillo
 - Lugar: Cucuta, Norte de Santander, Colombia
@@ -2249,6 +2283,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
 
+
+#### Name: Izis Sousa
+ - Place: Goiânia, Brazil
+ - Bio: I'm student
+ - GitHub: [ziiharuno](https://github.com/ziiharuno)
+
  #### Name: Shubhang Gupta
  
 - Place: New Delhi, India
@@ -2405,3 +2445,84 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: web developer, BTech-CSE student
 - GitHub: [gauravchauhan2403](https://github.com/gauravchauhan2403)
 
+
+#### Name: Immessionate
+
+- Place: New Delhi, India
+- Bio: Junior Data Associate
+- GitHub: [immessionate](https://github.com/immessionate)
+
+#### Name: Aman Singh
+
+- Place: Delhi, India
+- Bio: Engineering Student
+- Github: [aman-at-git](https://github.com/aman-at-git)
+
+#### Name: Husin Assegaff
+
+- Place: Surabaya, Indonesia
+- Bio: Informatics Student
+- Github: [husinassegaff](https://github.com/husinassegaff)
+
+#### Name: Harsh
+- Place: Ahmedabad, India
+- Bio: B.Tech Student
+- GitHub: [harshjoshi1417](https://github.com/harshjoshi1417)
+
+#### Name: Abhinav Sharma
+
+- Place: Delhi, India
+- Bio: Engineering Student
+- Github: [abhi9249](https://github.com/abhi9249)
+
+#### Name: awesomesuzjon(Sujan Bohara)
+
+- Place: Kathmandu, Nepal
+- Bio: Bsc.CSIT  Student
+- Github: [awesomesuzjon](https://github.com/awesomesuzjon)
+
+#### Name: Rajesh Pudasaini
+
+- Place: Kathmandu, Bagmati, Nepal
+- Bio: Computer Science student, who loves to work in Python
+- Github: [razyesh](https://github.com/razyesh)
+
+#### Name: Rachita Basnet
+- place: Kathmandu,Nepal
+-Bio: Computer Science Student
+-Github: [RachitaBas] (https://github.com/RachitaBas)
+
+#### Name: Rida Ayaz
+- Place: Islamabad, Pakistan
+- Bio: BSSE student
+- GitHub: [ridaayaz](https://github.com/ridaayaz)
+
+#### Name: Himanshu Agarwal
+
+- Place: Agra, India
+- Bio: Engineering Student
+- Github: [himanshuagrl](https://github.com/himanshuagrl)
+
+#### Name: Hari Prasad
+
+- Place: Tamilnadu, India
+- Bio: B.E CSE Student
+- Github: [Hari Prasad](https://github.com/hariprasad1003)
+
+#### Name : anjila chathuranga
+
+- Place : Galle, Sri lanka
+- Bio : student
+- Github :[anjila1999](https://github.com/anjila1999)
+
+#### Name: Moh Yusril Firmansyah
+
+- Place: Malang, Indonesia
+- Bio: Informatics Engineering Education Students
+- Github: [Moh Yusril Firmansyah](https://github.com/yusril23)
+
+#### Name: Thiago Silva
+
+- Place: Ananindeua, Pará, Brazil
+- Bio: Systems Analysis and Development Student
+- Github: [Thiago Silva](https://github.com/pgThiago)
