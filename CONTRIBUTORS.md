@@ -2534,6 +2534,11 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Systems Analysis and Development Student
 - Github: [Thiago Silva](https://github.com/pgThiago)
 
+#### Name: Carlos Ruiz
+- Place: Brabant Wallon, Belgium
+- Bio: CS Student
+- GitHub: [D34DPlayer](https://github.com/D34DPlayer)
+
 #### Name: Sachin Biradar
 
 -Place: Pune , India
