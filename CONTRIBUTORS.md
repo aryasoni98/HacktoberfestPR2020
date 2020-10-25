@@ -2534,6 +2534,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: Systems Analysis and Development Student
 - Github: [Thiago Silva](https://github.com/pgThiago)
 
+#### Name: Bilal Ahmad
+
+- Place: Punjab, India
+- Bio: BCA student
+- GitHub: [mis-coder](https://github.com/mis-coder)
+
 #### Name: Carlos Ruiz
 - Place: Brabant Wallon, Belgium
 - Bio: CS Student
