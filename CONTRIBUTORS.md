@@ -1,3 +1,8 @@
+#### Name: Adithya Narayan K A
+- Place: Kochi, India
+- Bio: CSE Undergraduate
+- GitHub: [Adithya Narayan K A](https://github.com/adithya2000)
+
 #### Name: Toshani
 
 - Place: India
