@@ -1,9 +1,13 @@
+#### Name: Adithya Narayan K A
+- Place: Kochi, India
+- Bio: CSE Undergraduate
+- GitHub: [Adithya Narayan K A](https://github.com/adithya2000)
+
 #### Name: Gaurav Pandey
 
 - Place: India
 - Bio: C++, C and Python programmer
 - GitHub: [gauravpandey22](https://github.com/gauravpandey22)
-
 
 #### Name: Toshani
 
