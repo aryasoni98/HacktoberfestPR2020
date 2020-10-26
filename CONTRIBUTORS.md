@@ -1,3 +1,10 @@
+#### Name: Gaurav Pandey
+
+- Place: India
+- Bio: C++, C and Python programmer
+- GitHub: [gauravpandey22](https://github.com/gauravpandey22)
+
+
 #### Name: Toshani
 
 - Place: India
