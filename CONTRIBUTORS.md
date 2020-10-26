@@ -3,6 +3,12 @@
 - Bio: CSE Undergraduate
 - GitHub: [Adithya Narayan K A](https://github.com/adithya2000)
 
+#### Name: Gaurav Pandey
+
+- Place: India
+- Bio: C++, C and Python programmer
+- GitHub: [gauravpandey22](https://github.com/gauravpandey22)
+
 #### Name: Toshani
 
 - Place: India
@@ -2575,3 +2581,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 -Place: San Jose, CA, United States
 -Bio: Computer Science Student
 -Github: [aveni121](https://github.com/aveni121)
+
+#### Name:MEHRAN
+-Place:Delhi,India
+-bio: student
+-Github:[MEHRANFIRDOUS](https://github.com/MEHRANFIRDOUS)
+
+#### Name: Abhishek Nandan
+- Place: Patna, Bihar, India
+- Bio: CS undergrad at NIT Patna
+- GitHub: [nandanabhishek](https://github.com/nandanabhishek)

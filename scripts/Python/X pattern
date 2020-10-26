@@ -1,0 +1,9 @@
+import sys
+lines=10
+for line in range(0,10):
+    for col in range(0,10):
+        if line==col or line+col==lines-1:
+            print('*', end=" ")
+        else:
+            print(" ", end=" ")
+    print()       
