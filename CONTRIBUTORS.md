@@ -2558,3 +2558,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 -Bio: $>whoami 
 -Github: [ubinix-warun](https://github.com/ubinix-warun)
 
+#### Name: Ferdz Duterte
+
+-Place: San Jose, CA, United States
+-Bio: Computer Science Student
+-Github: [aveni121](https://github.com/aveni121)
