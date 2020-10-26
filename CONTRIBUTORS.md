@@ -1,3 +1,10 @@
+#### Name: Toshani
+
+- Place: India
+- Bio: C++, C and Python programmer
+- GitHub: [Toshani](https://github.com/Toshani)
+
+
 #### Name: Samrat Khan
 
 - Place: Kolkata, India
