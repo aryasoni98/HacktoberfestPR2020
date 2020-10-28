@@ -2591,3 +2591,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Patna, Bihar, India
 - Bio: CS undergrad at NIT Patna
 - GitHub: [nandanabhishek](https://github.com/nandanabhishek)
+
+#### Name: Cristian Garde Zarza
+- Place: Palma, Balearic Islands, Spain
+- Bio: PHP Developer
+- GitHub: [cgarde89](https://github.com/cgarde89)
