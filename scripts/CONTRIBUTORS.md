@@ -2596,3 +2596,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Palma, Balearic Islands, Spain
 - Bio: PHP Developer
 - GitHub: [cgarde89](https://github.com/cgarde89)
+
+#### Name: Manjit Lal
+- Place: Dhanbad, Jharkhand, India
+- Bio: CS postgraduate at NIT Rourkela
+- GitHub: [manjitlal](https://github.com/manjitlal)
