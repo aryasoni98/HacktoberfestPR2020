@@ -2596,3 +2596,10 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Palma, Balearic Islands, Spain
 - Bio: PHP Developer
 - GitHub: [cgarde89](https://github.com/cgarde89)
+
+
+#### Name: Anish Kumar
+- Place: Noida,India
+- Bio: Full Stack Developer
+- GitHub: [cgarde89](https://github.com/anish9696)
+
