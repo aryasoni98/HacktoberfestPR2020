@@ -2596,3 +2596,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Palma, Balearic Islands, Spain
 - Bio: PHP Developer
 - GitHub: [cgarde89](https://github.com/cgarde89)
+
+#### Name: Ayush Gupta
+- Place: Shamshabad, Agra, UP
+- Bio: JAVA Developer
+- GitHub: [ayushdgupta](https://github.com/ayushdgupta)
