@@ -2597,9 +2597,12 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Bio: PHP Developer
 - GitHub: [cgarde89](https://github.com/cgarde89)
 
-
 #### Name: Anish Kumar
 - Place: Noida,India
 - Bio: Full Stack Developer
 - GitHub: [cgarde89](https://github.com/anish9696)
 
+#### Name: Ayush Gupta
+- Place: Shamshabad, Agra, UP
+- Bio: JAVA Developer
+- GitHub: [ayushdgupta](https://github.com/ayushdgupta)
