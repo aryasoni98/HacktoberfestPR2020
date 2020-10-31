@@ -2601,3 +2601,13 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Dhanbad, Jharkhand, India
 - Bio: CS postgraduate at NIT Rourkela
 - GitHub: [manjitlal](https://github.com/manjitlal)
+
+#### Name: Anish Kumar
+- Place: Noida,India
+- Bio: Full Stack Developer
+- GitHub: [cgarde89](https://github.com/anish9696)
+
+#### Name: Ayush Gupta
+- Place: Shamshabad, Agra, UP
+- Bio: JAVA Developer
+- GitHub: [ayushdgupta](https://github.com/ayushdgupta)
